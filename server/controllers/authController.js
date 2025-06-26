@@ -190,7 +190,12 @@ function generateToken(payload) {
 
 function logoutToken(req, res) {
   //+
-  res.clearCookie("hris_token");
+  res.clearCookie("hris_token", {
+    httpOnly: true,
+    secure: process.env.NODE_ENV === "production",
+    // sameSite: "Strict", //= turn this on of same domain
+    sameSite: "none", //= turn this on if different domain
+  });
   res.status(200).json({ message: "Logout successful" });
 }
 
