@@ -68,7 +68,8 @@ async function authenticate(req, res) {
     res.cookie("hris_token", token, {
       httpOnly: true,
       secure: process.env.NODE_ENV === "production",
-      sameSite: "Strict",
+      // sameSite: "Strict", //= turn this on of same domain
+      sameSite: "none", //= turn this on if different domain
       maxAge: 30 * 24 * 60 * 60 * 1000, // 30 days
     });
     res.json({
@@ -125,7 +126,8 @@ async function googleAuthSuccess(req, res) {
     res.cookie("hris_token", token, {
       httpOnly: true,
       secure: process.env.NODE_ENV === "production",
-      sameSite: "Strict",
+      // sameSite: "Strict", //= turn this on of same domain
+      sameSite: "none", //= turn this on if different domain
       maxAge: 30 * 24 * 60 * 60 * 1000, // 30 days
     });
 
