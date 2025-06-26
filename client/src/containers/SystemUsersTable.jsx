@@ -3,7 +3,7 @@ import DataTable from "../components/table/DataTable";
 import DataTableExpanded from "../components/table/DataTableExpanded";
 import userApi from "../api/userApi";
 import { showToast } from "../utils/toastNotifications";
-import UserFormModal from "../modal/UserFormModal";
+import UserFormModal from "../Modal/UserFormModal";
 import {
   FaSort,
   FaTrash,
