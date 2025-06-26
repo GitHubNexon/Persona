@@ -23,8 +23,11 @@ if (!apiBaseUrl || apiBaseUrl === "") {
     case "development":
       apiBaseUrl = `${window.location.protocol}//${window.location.hostname}:3002/persona/api`;
       break;
+    // case "production":
+    //   apiBaseUrl = `${window.location.protocol}//${window.location.hostname}/persona/api`;
     case "production":
-      apiBaseUrl = `${window.location.protocol}//${window.location.hostname}/persona/api`;
+      // fail loudly if backend URL is missing in production
+      throw new Error("VITE_API_BASE_URL is not set in production!");
       break;
     default:
       apiBaseUrl = "http://localhost:3002/persona/api";
