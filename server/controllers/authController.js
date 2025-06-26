@@ -65,11 +65,10 @@ async function authenticate(req, res) {
     });
 
     const { firstName, middleName, lastName } = userInfo.basicInfo || {};
-    res.cookie("person_token", token, {
+    res.cookie("persona_token", token, {
       httpOnly: true,
       secure: process.env.NODE_ENV === "production",
-      // sameSite: "Strict", //= turn this on of same domain
-      sameSite: "none", //= turn this on if different domain
+      sameSite: process.env.COOKIE_SAMESITE || "Strict",
       maxAge: 30 * 24 * 60 * 60 * 1000, // 30 days
     });
     res.json({
@@ -123,11 +122,10 @@ async function googleAuthSuccess(req, res) {
     });
 
     // Set cookie
-    res.cookie("person_token", token, {
+    res.cookie("persona_token", token, {
       httpOnly: true,
       secure: process.env.NODE_ENV === "production",
-      // sameSite: "Strict", //= turn this on of same domain
-      sameSite: "none", //= turn this on if different domain
+      sameSite: process.env.COOKIE_SAMESITE || "Strict",
       maxAge: 30 * 24 * 60 * 60 * 1000, // 30 days
     });
 
@@ -160,7 +158,7 @@ function googleAuthFailure(req, res) {
  * will terminate and return the request with status code 401 on unsuccessful verification
  */
 async function authenticateToken(req, res, next) {
-  const token = req.cookies.person_token; // Get token from cookies
+  const token = req.cookies.persona_token; // Get token from cookies
   const base = await baseModel.findOne();
   if (!token) return res.status(401).json({ error: "Access token required" });
   jwt.verify(token, process.env.SECRET_KEY, (err, user) => {
@@ -190,12 +188,7 @@ function generateToken(payload) {
 
 function logoutToken(req, res) {
   //+
-  res.clearCookie("person_token", {
-    httpOnly: true,
-    secure: process.env.NODE_ENV === "production",
-    // sameSite: "Strict", //= turn this on of same domain
-    sameSite: "none", //= turn this on if different domain
-  });
+  res.clearCookie("persona_token");
   res.status(200).json({ message: "Logout successful" });
 }
 

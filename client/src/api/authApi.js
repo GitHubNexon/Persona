@@ -11,20 +11,14 @@ export function cookieExists(name) {
 }
 
 async function checkCookies() {
-  try {
-    const response = await axios.post(
-      "/auth/check",
-      {},
-      { withCredentials: true }
-    );
-    return response.status === 200;
-  } catch (error) {
-    console.error(
-      "Failed to check cookies:",
-      error.response ? error.response.data : error.message
-    );
-    return false;
-  }
+    try {
+        // Send a simple request to check for cookies
+        const response = await axios.post(`${API_BASE_URL}/auth/check`, { withCredentials: true });
+        return response.status === 200;
+    } catch (error) {
+        console.error('Failed to check cookies:', error.response ? error.response.data : error.message);
+        return false;
+    }
 }
 
 export async function fetchUser() {
