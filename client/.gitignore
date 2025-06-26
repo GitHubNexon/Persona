@@ -22,4 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
-env
+
+# Local env files (important!)
+.env
+.env.*    # ignores .env.development, .env.production, etc.
+!.env.example  # allow .env.example to be committed
