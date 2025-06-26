@@ -30,7 +30,13 @@ router.post(
 router.post(
   "/logout",
   asyncHandler(async (req, res) => {
-    res.clearCookie("hris_token");
+    res.cookie("person_token", token, {
+      httpOnly: true,
+      secure: process.env.NODE_ENV === "production",
+      // sameSite: "Strict", //= turn this on of same domain
+      sameSite: "none", //= turn this on if different domain
+      maxAge: 30 * 24 * 60 * 60 * 1000, // 30 days
+    });
     res.status(200).json({ message: "Logged out successfully" });
   })
 );

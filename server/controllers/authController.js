@@ -65,7 +65,7 @@ async function authenticate(req, res) {
     });
 
     const { firstName, middleName, lastName } = userInfo.basicInfo || {};
-    res.cookie("hris_token", token, {
+    res.cookie("person_token", token, {
       httpOnly: true,
       secure: process.env.NODE_ENV === "production",
       // sameSite: "Strict", //= turn this on of same domain
@@ -123,7 +123,7 @@ async function googleAuthSuccess(req, res) {
     });
 
     // Set cookie
-    res.cookie("hris_token", token, {
+    res.cookie("person_token", token, {
       httpOnly: true,
       secure: process.env.NODE_ENV === "production",
       // sameSite: "Strict", //= turn this on of same domain
@@ -160,7 +160,7 @@ function googleAuthFailure(req, res) {
  * will terminate and return the request with status code 401 on unsuccessful verification
  */
 async function authenticateToken(req, res, next) {
-  const token = req.cookies.hris_token; // Get token from cookies
+  const token = req.cookies.person_token; // Get token from cookies
   const base = await baseModel.findOne();
   if (!token) return res.status(401).json({ error: "Access token required" });
   jwt.verify(token, process.env.SECRET_KEY, (err, user) => {
@@ -190,7 +190,7 @@ function generateToken(payload) {
 
 function logoutToken(req, res) {
   //+
-  res.clearCookie("hris_token", {
+  res.clearCookie("person_token", {
     httpOnly: true,
     secure: process.env.NODE_ENV === "production",
     // sameSite: "Strict", //= turn this on of same domain
