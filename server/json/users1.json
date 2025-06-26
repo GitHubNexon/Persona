@@ -1,0 +1,2817 @@
+[
+  {
+    "basicInfo": {
+      "firstName": "Sheridan",
+      "lastName": "Mante",
+      "middleName": "Elliott",
+      "birthDate": "1981-03-18",
+      "height": 191,
+      "weight": 52,
+      "spouse": "Hugo Marquardt",
+      "namesOfChildren": [
+        "Earl",
+        "Cleo"
+      ],
+      "maritalStatus": "Divorced",
+      "gender": "Female",
+      "profileImage": "https://avatars.githubusercontent.com/u/1906724"
+    },
+    "contactInfo": {
+      "address": {
+        "street": "7156 Kingsway",
+        "city": "Mandaluyong",
+        "province": "Metro Manila",
+        "country": "Philippines",
+        "postalCode": "11393"
+      },
+      "contactNumber": "091-811-826-1199 x9002",
+      "emergencyContact": {
+        "name": "Kara White",
+        "number": "09(334) 767-8798 x214"
+      }
+    },
+    "educationInfo": {
+      "Elementary": {
+        "name": "Harber - Altenwerth Elementary School",
+        "yearGraduated": 2002
+      },
+      "HighSchool": {
+        "name": "Konopelski - Gulgowski High School",
+        "yearGraduated": 2009
+      },
+      "College": {
+        "name": "Shanahan - Schmitt University",
+        "yearGraduated": 2018
+      }
+    },
+    "employeeRecords": [
+      {
+        "companyName": "Kerluke LLC",
+        "position": "Central Directives Executive",
+        "startDate": "2018-01-01",
+        "endDate": "2021-01-21",
+        "salary": 84522
+      }
+    ],
+    "governmentInfo": {
+      "sss": "f472bcf7-dd19-4a66-ba75-9e27f56b45d7",
+      "pagIbig": "57bdd299-8948-46a0-8e0a-5d112c3f28bf",
+      "philHealth": "c78b314e-c6b9-495e-a580-4cd5135934ec",
+      "tin": "444d9900-2068-4c8e-8e7e-c7134223794d",
+      "passportNo": "52f5e8fc-a11f-4971-9859-3da9d45b9b5b",
+      "driversLicense": "abd8b3db-0d02-450b-8ba9-b5a3acea5cc5",
+      "postalId": "8b6fe613-4840-42f0-a78f-bea76181be1e",
+      "votersId": "08a181c4-d345-4878-a7b4-f0e7ca0b690c",
+      "nbi": "9befb749-800a-40d8-b53c-67712a7241d0",
+      "policeClearance": "2ed4547d-e11e-46a5-b7d7-67f5eedea7ff",
+      "barangayClearance": "5b81952f-9e81-47d8-be88-dcfee4aedda0"
+    },
+    "employeeInfo": {
+      "employeeId": "18af4ef4-4a63-484a-b019-f20d837d7038",
+      "position": "Direct Paradigm Assistant",
+      "department": "Tools",
+      "dateHired": "2021-01-28",
+      "employmentStatus": "On Leave"
+    },
+    "username": "@sheridanemante",
+    "email": "sheridanemante@mail.com",
+    "password": "$2b$10$rCs3p0ajCzTMKVwYa9m1GuYwUEqrGa0EYfS.2eC9BmiZMyY99kcxW",
+    "userType": "Employee",
+    "failedAttempts": 0,
+    "lockoutUntil": null,
+    "status": {
+      "isDeleted": false,
+      "isArchived": false
+    },
+    "createdAt": "2025-06-13T10:04:25+08:00",
+    "updatedAt": "2025-06-13T10:04:25+08:00",
+    "__v": 0
+  },
+  {
+    "basicInfo": {
+      "firstName": "Kelvin",
+      "lastName": "Green",
+      "middleName": "Marlowe",
+      "birthDate": "1998-06-24",
+      "height": 165,
+      "weight": 58,
+      "spouse": "Laverne Corkery-Durgan",
+      "namesOfChildren": [
+        "Stacey",
+        "Olen"
+      ],
+      "maritalStatus": "Married",
+      "gender": "Female",
+      "profileImage": "https://avatars.githubusercontent.com/u/32163129"
+    },
+    "contactInfo": {
+      "address": {
+        "street": "2218 Wehner Shores",
+        "city": "Makati",
+        "province": "Metro Manila",
+        "country": "Philippines",
+        "postalCode": "19448"
+      },
+      "contactNumber": "09(885) 812-2181 x7338",
+      "emergencyContact": {
+        "name": "Sheldon Leuschke",
+        "number": "09(355) 762-5571"
+      }
+    },
+    "educationInfo": {
+      "Elementary": {
+        "name": "Emmerich Inc Elementary School",
+        "yearGraduated": 1998
+      },
+      "HighSchool": {
+        "name": "Osinski, VonRueden and Friesen High School",
+        "yearGraduated": 2009
+      },
+      "College": {
+        "name": "Mante, Herman and Dickinson University",
+        "yearGraduated": 2015
+      }
+    },
+    "employeeRecords": [
+      {
+        "companyName": "Kassulke, Dach and Hane",
+        "position": "Lead Factors Administrator",
+        "startDate": "2024-01-08",
+        "endDate": "2024-07-07",
+        "salary": 58908
+      }
+    ],
+    "governmentInfo": {
+      "sss": "963d19e4-5d48-4523-921c-d3b46de9f1f0",
+      "pagIbig": "53dc4840-9cf6-4fb3-86b8-c02f443764d8",
+      "philHealth": "6a4de5d2-47fb-46d6-869e-72c5749497ad",
+      "tin": "97a9d370-db58-468e-9067-fd5c13f6bbb0",
+      "passportNo": "67cb6f4d-a619-4d56-ac47-05276e820d33",
+      "driversLicense": "efefa5b3-1e56-4f5b-a1e6-6105ea0c8e9a",
+      "postalId": "00ba52a9-6b4a-468c-a81f-ebadf5447d1f",
+      "votersId": "7611e72d-94e1-4e03-bbf9-70d1289dfdde",
+      "nbi": "56beacb3-58c1-4410-a316-0d7bf19dc8ea",
+      "policeClearance": "fc6d0a4a-5b7b-48b3-8c34-4d48deb4983c",
+      "barangayClearance": "b61a599a-7dc7-4c18-9880-224a104e1830"
+    },
+    "employeeInfo": {
+      "employeeId": "401ef0f1-83f7-4801-aa0c-9268de87e40d",
+      "position": "Central Assurance Planner",
+      "department": "Music",
+      "dateHired": "2024-11-04",
+      "employmentStatus": "On Leave"
+    },
+    "username": "@kelvinmgreen",
+    "email": "kelvinmgreen@mail.com",
+    "password": "$2b$10$oVziHzVonGKOLc/qW9T0l.P1luWaOR5S7w/FjlZGMtC80bcJ4wvRq",
+    "userType": "Employee",
+    "failedAttempts": 0,
+    "lockoutUntil": null,
+    "status": {
+      "isDeleted": false,
+      "isArchived": false
+    },
+    "createdAt": "2025-06-13T10:04:25+08:00",
+    "updatedAt": "2025-06-13T10:04:25+08:00",
+    "__v": 0
+  },
+  {
+    "basicInfo": {
+      "firstName": "Darrion",
+      "lastName": "Hayes",
+      "middleName": "Cameron",
+      "birthDate": "1986-10-29",
+      "height": 198,
+      "weight": 56,
+      "spouse": "Jenny Schaden",
+      "namesOfChildren": [
+        "Aniyah",
+        "Eryn"
+      ],
+      "maritalStatus": "Divorced",
+      "gender": "Other",
+      "profileImage": "https://avatars.githubusercontent.com/u/87967553"
+    },
+    "contactInfo": {
+      "address": {
+        "street": "1540 Grayson Drives",
+        "city": "Las Piñas",
+        "province": "Metro Manila",
+        "country": "Philippines",
+        "postalCode": "12981"
+      },
+      "contactNumber": "09344-244-2854",
+      "emergencyContact": {
+        "name": "Owen Kovacek",
+        "number": "09359-956-0676"
+      }
+    },
+    "educationInfo": {
+      "Elementary": {
+        "name": "Schaden - Schultz Elementary School",
+        "yearGraduated": 1990
+      },
+      "HighSchool": {
+        "name": "Reynolds Inc High School",
+        "yearGraduated": 2010
+      },
+      "College": {
+        "name": "Reinger and Sons University",
+        "yearGraduated": 2013
+      }
+    },
+    "employeeRecords": [
+      {
+        "companyName": "Stoltenberg Inc",
+        "position": "International Accountability Specialist",
+        "startDate": "2016-11-16",
+        "endDate": "2021-08-05",
+        "salary": 43700
+      },
+      {
+        "companyName": "Kirlin - Kerluke",
+        "position": "Chief Tactics Supervisor",
+        "startDate": "2020-12-20",
+        "endDate": "2021-12-18",
+        "salary": 71785
+      },
+      {
+        "companyName": "Marks - Jakubowski",
+        "position": "Forward Infrastructure Facilitator",
+        "startDate": "2020-11-24",
+        "endDate": "2025-06-04",
+        "salary": 89263
+      }
+    ],
+    "governmentInfo": {
+      "sss": "2ba34c58-d581-42cb-8a4d-93cfcffafbe5",
+      "pagIbig": "3e2c9ce5-d0a2-4626-bc7a-267e0276f43a",
+      "philHealth": "5f4a9ce0-a492-48a6-81f4-a219a4f97299",
+      "tin": "98bce300-fb00-4776-9048-ed8547c6f945",
+      "passportNo": "4c7afbbd-1749-4fc8-9215-1be44aa9aabe",
+      "driversLicense": "70c13b8c-7f10-4a96-8358-fba5143ca085",
+      "postalId": "0dec4741-0954-4b26-8b7b-6e6624d700da",
+      "votersId": "c0f405b6-31dd-48e1-802f-bae303e9eb62",
+      "nbi": "5777c617-6f6f-4a35-8a90-f873b7adced4",
+      "policeClearance": "d114122f-d47c-4c84-8bc3-68bc037554f6",
+      "barangayClearance": "8e875f10-e4c6-4bbf-b1f9-6cc5dbf309be"
+    },
+    "employeeInfo": {
+      "employeeId": "ebff5cff-8f04-4dc8-9889-74d76fb0127a",
+      "position": "Regional Solutions Director",
+      "department": "Outdoors",
+      "dateHired": "2021-12-13",
+      "employmentStatus": "Active"
+    },
+    "username": "@darrionchayes",
+    "email": "darrionchayes@mail.com",
+    "password": "$2b$10$bnTN.2WxisuGRvwMlnLw0.KIkPTAYHYef3eskywnecVcp5rHe2d7O",
+    "userType": "Employee",
+    "failedAttempts": 0,
+    "lockoutUntil": null,
+    "status": {
+      "isDeleted": false,
+      "isArchived": false
+    },
+    "createdAt": "2025-06-13T10:04:25+08:00",
+    "updatedAt": "2025-06-13T10:04:25+08:00",
+    "__v": 0
+  },
+  {
+    "basicInfo": {
+      "firstName": "Gayle",
+      "lastName": "Buckridge",
+      "middleName": "Taylor",
+      "birthDate": "2003-03-06",
+      "height": 168,
+      "weight": 50,
+      "spouse": "Whitney Bosco",
+      "namesOfChildren": [
+        "Buck",
+        "Emmet"
+      ],
+      "maritalStatus": "Divorced",
+      "gender": "Other",
+      "profileImage": "https://avatars.githubusercontent.com/u/7122443"
+    },
+    "contactInfo": {
+      "address": {
+        "street": "458 Mayer Lights",
+        "city": "Marikina",
+        "province": "Metro Manila",
+        "country": "Philippines",
+        "postalCode": "15759"
+      },
+      "contactNumber": "091-268-482-8742 x025",
+      "emergencyContact": {
+        "name": "Kerry Schmidt",
+        "number": "091-432-888-2859"
+      }
+    },
+    "educationInfo": {
+      "Elementary": {
+        "name": "Mertz Inc Elementary School",
+        "yearGraduated": 2004
+      },
+      "HighSchool": {
+        "name": "Reynolds, Kiehn and Olson High School",
+        "yearGraduated": 2008
+      },
+      "College": {
+        "name": "Hackett, Mitchell and McDermott University",
+        "yearGraduated": 2017
+      }
+    },
+    "employeeRecords": [
+      {
+        "companyName": "Wiza, Grady and Rosenbaum",
+        "position": "Chief Division Technician",
+        "startDate": "2024-07-08",
+        "endDate": "2024-07-11",
+        "salary": 84790
+      },
+      {
+        "companyName": "Smith Inc",
+        "position": "International Response Representative",
+        "startDate": "2017-08-12",
+        "endDate": "2024-01-19",
+        "salary": 95525
+      }
+    ],
+    "governmentInfo": {
+      "sss": "13a3233a-23b1-4293-b368-1670e16392bd",
+      "pagIbig": "c0189f6c-879a-44ed-b690-63c6ec989cba",
+      "philHealth": "8ba29b05-354b-4c8e-b23c-5e91006c83ee",
+      "tin": "9fc55078-8d3e-4ef4-bb69-cd3cee221e49",
+      "passportNo": "3b92815f-2b92-414b-aa4a-2c8da56295f9",
+      "driversLicense": "4139e2d1-b98e-45ad-9935-79c1befce081",
+      "postalId": "37379994-4df2-4ab9-b2f4-cb8d5145325f",
+      "votersId": "3f36946a-3e3b-4eca-a03b-dcf52a409f0f",
+      "nbi": "db26743f-b7c6-47bc-88c5-b9cefdc1a365",
+      "policeClearance": "380f7185-a714-4343-b301-eb5a1efcdcb5",
+      "barangayClearance": "c024062a-c66e-43e0-8b83-8770de937640"
+    },
+    "employeeInfo": {
+      "employeeId": "79a7bd3e-e869-444e-9ca0-e96e9d001dd5",
+      "position": "District Integration Specialist",
+      "department": "Automotive",
+      "dateHired": "2020-08-23",
+      "employmentStatus": "Active"
+    },
+    "username": "@gayletbuckridge",
+    "email": "gayletbuckridge@mail.com",
+    "password": "$2b$10$4Pma8pFckrGLdcsUJSak1e.A52hDQ7EXGV0pPCctEYSrXPHC7vVWy",
+    "userType": "Employee",
+    "failedAttempts": 0,
+    "lockoutUntil": null,
+    "status": {
+      "isDeleted": false,
+      "isArchived": false
+    },
+    "createdAt": "2025-06-13T10:04:25+08:00",
+    "updatedAt": "2025-06-13T10:04:25+08:00",
+    "__v": 0
+  },
+  {
+    "basicInfo": {
+      "firstName": "Torrance",
+      "lastName": "Batz",
+      "middleName": "Kennedy",
+      "birthDate": "1975-11-27",
+      "height": 152,
+      "weight": 96,
+      "spouse": "Noah Wiza",
+      "namesOfChildren": [
+        "Darron",
+        "Jackson"
+      ],
+      "maritalStatus": "Widowed",
+      "gender": "Other",
+      "profileImage": "https://avatars.githubusercontent.com/u/15075296"
+    },
+    "contactInfo": {
+      "address": {
+        "street": "289 Jett Fort",
+        "city": "Navotas",
+        "province": "Metro Manila",
+        "country": "Philippines",
+        "postalCode": "12275"
+      },
+      "contactNumber": "09(749) 277-3756 x689",
+      "emergencyContact": {
+        "name": "Willis Breitenberg",
+        "number": "09364-984-0202 x020"
+      }
+    },
+    "educationInfo": {
+      "Elementary": {
+        "name": "Towne, Raynor and Robel Elementary School",
+        "yearGraduated": 1990
+      },
+      "HighSchool": {
+        "name": "Moen - Buckridge High School",
+        "yearGraduated": 2007
+      },
+      "College": {
+        "name": "Yost and Sons University",
+        "yearGraduated": 2020
+      }
+    },
+    "employeeRecords": [
+      {
+        "companyName": "Mann Group",
+        "position": "International Identity Architect",
+        "startDate": "2022-10-19",
+        "endDate": "2023-01-04",
+        "salary": 22428
+      }
+    ],
+    "governmentInfo": {
+      "sss": "75b01d42-8c46-44a1-9302-e29ed45f7f64",
+      "pagIbig": "647c3ae9-3d84-43de-b349-cd800953e060",
+      "philHealth": "99a9e616-dd74-45d5-8735-b70212bb1c76",
+      "tin": "5a448d00-8a7b-4da4-90e2-111c9f7f7d6f",
+      "passportNo": "0b796f78-4c8f-4d49-86e4-fefd93868a30",
+      "driversLicense": "11cb4e52-b008-4373-990c-3e07b7de2cc6",
+      "postalId": "94929b49-392a-47c1-b8c4-fe0edfde4592",
+      "votersId": "be9de888-e9e4-48e7-b11e-a0792a627bca",
+      "nbi": "6241cfeb-9642-4824-93cc-cd6ca4800fc5",
+      "policeClearance": "34de793e-c59a-4950-af28-c93b0ef93e61",
+      "barangayClearance": "71dbba23-8a91-4ef2-8cf7-a78a0e507f7f"
+    },
+    "employeeInfo": {
+      "employeeId": "86dc0d05-cc86-4ef1-a9f9-958045720e41",
+      "position": "Corporate Creative Producer",
+      "department": "Computers",
+      "dateHired": "2024-06-02",
+      "employmentStatus": "Active"
+    },
+    "username": "@torrancekbatz",
+    "email": "torrancekbatz@mail.com",
+    "password": "$2b$10$5r0WNApcMiqbPPjQ7pYnGuAU9AYb.JJQg0RmT9B93sGuFgRZ/4jF.",
+    "userType": "Employee",
+    "failedAttempts": 0,
+    "lockoutUntil": null,
+    "status": {
+      "isDeleted": false,
+      "isArchived": false
+    },
+    "createdAt": "2025-06-13T10:04:25+08:00",
+    "updatedAt": "2025-06-13T10:04:25+08:00",
+    "__v": 0
+  },
+  {
+    "basicInfo": {
+      "firstName": "Coleman",
+      "lastName": "Farrell",
+      "middleName": "Drew",
+      "birthDate": "1981-12-28",
+      "height": 180,
+      "weight": 68,
+      "spouse": "Ms. Pat Pfannerstill",
+      "namesOfChildren": [
+        "Cassandre",
+        "Americo"
+      ],
+      "maritalStatus": "Divorced",
+      "gender": "Other",
+      "profileImage": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/42.jpg"
+    },
+    "contactInfo": {
+      "address": {
+        "street": "6397 Jefferson Street",
+        "city": "Mandaluyong",
+        "province": "Metro Manila",
+        "country": "Philippines",
+        "postalCode": "19256"
+      },
+      "contactNumber": "09207.761.3902 x51739",
+      "emergencyContact": {
+        "name": "Robin Bauch",
+        "number": "09970.539.1601"
+      }
+    },
+    "educationInfo": {
+      "Elementary": {
+        "name": "Kirlin, Fadel and Simonis Elementary School",
+        "yearGraduated": 1998
+      },
+      "HighSchool": {
+        "name": "Okuneva, Hagenes and Grant High School",
+        "yearGraduated": 2007
+      },
+      "College": {
+        "name": "Schaefer and Sons University",
+        "yearGraduated": 2016
+      }
+    },
+    "employeeRecords": [
+      {
+        "companyName": "Wolf, Collins and Shields",
+        "position": "Senior Marketing Producer",
+        "startDate": "2018-07-15",
+        "endDate": "2023-11-10",
+        "salary": 88035
+      },
+      {
+        "companyName": "Grimes Group",
+        "position": "Legacy Integration Designer",
+        "startDate": "2020-11-17",
+        "endDate": "2024-03-13",
+        "salary": 98211
+      }
+    ],
+    "governmentInfo": {
+      "sss": "22e0d5d8-eafd-43b9-b870-cac7c96a4e24",
+      "pagIbig": "a9eb88dd-1d31-43bb-a43b-c4be64a3b7a5",
+      "philHealth": "3f550e16-c1b6-4614-b3dd-aa611aee72bb",
+      "tin": "40db011d-cc3e-4be4-9ee5-d8bb2bc48eef",
+      "passportNo": "53afa780-a0e2-4440-9e7c-b517f8fcdd4f",
+      "driversLicense": "0550a54f-00e2-4759-8e46-3fb8d6e4ef5d",
+      "postalId": "a320e701-e07d-4c13-82dd-7afb7f94bcfb",
+      "votersId": "d44b5735-9e39-4f5c-b8a8-ce59f97bc3ae",
+      "nbi": "522ccbd4-68ec-42da-b43a-5410e687e7d9",
+      "policeClearance": "1305d31d-27f1-475f-94bd-98ab66ff0050",
+      "barangayClearance": "301b5f8f-d8a7-422b-b51b-50f4a85933a2"
+    },
+    "employeeInfo": {
+      "employeeId": "da2e4d47-33cc-4e29-875f-e375efbfd49a",
+      "position": "Human Tactics Engineer",
+      "department": "Jewelry",
+      "dateHired": "2022-04-26",
+      "employmentStatus": "Terminated"
+    },
+    "username": "@colemandfarrell",
+    "email": "colemandfarrell@mail.com",
+    "password": "$2b$10$O5yJCYbXzbxzyddKy.Ih2.npPcR14fHDt7oDAxsLwLPLrDZGk5jga",
+    "userType": "Employee",
+    "failedAttempts": 0,
+    "lockoutUntil": null,
+    "status": {
+      "isDeleted": false,
+      "isArchived": false
+    },
+    "createdAt": "2025-06-13T10:04:25+08:00",
+    "updatedAt": "2025-06-13T10:04:25+08:00",
+    "__v": 0
+  },
+  {
+    "basicInfo": {
+      "firstName": "Jalyn",
+      "lastName": "Schmidt",
+      "middleName": "Arden",
+      "birthDate": "1993-01-27",
+      "height": 153,
+      "weight": 69,
+      "spouse": "Leigh Mosciski I",
+      "namesOfChildren": [
+        "Dale",
+        "Adrianna"
+      ],
+      "maritalStatus": "Divorced",
+      "gender": "Male",
+      "profileImage": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/12.jpg"
+    },
+    "contactInfo": {
+      "address": {
+        "street": "5913 Satterfield Branch",
+        "city": "Parañaque",
+        "province": "Metro Manila",
+        "country": "Philippines",
+        "postalCode": "11002"
+      },
+      "contactNumber": "09430-376-7892 x33745",
+      "emergencyContact": {
+        "name": "Shari Satterfield",
+        "number": "09452.817.7589 x584"
+      }
+    },
+    "educationInfo": {
+      "Elementary": {
+        "name": "Hettinger - Pacocha Elementary School",
+        "yearGraduated": 1994
+      },
+      "HighSchool": {
+        "name": "Runolfsson, Spinka and Marvin High School",
+        "yearGraduated": 2008
+      },
+      "College": {
+        "name": "Swift - VonRueden University",
+        "yearGraduated": 2012
+      }
+    },
+    "employeeRecords": [
+      {
+        "companyName": "Armstrong and Sons",
+        "position": "Future Intranet Liaison",
+        "startDate": "2019-12-02",
+        "endDate": "2021-02-07",
+        "salary": 22238
+      },
+      {
+        "companyName": "Marks and Sons",
+        "position": "Corporate Quality Facilitator",
+        "startDate": "2019-04-07",
+        "endDate": "2021-10-25",
+        "salary": 63827
+      }
+    ],
+    "governmentInfo": {
+      "sss": "bcb45b3a-189d-4533-a3bc-c524b0fd869c",
+      "pagIbig": "111bea5f-d145-4f5a-8e3a-cba182caebad",
+      "philHealth": "7c3e3e9e-a501-40e1-b92d-dd5b3950bfa8",
+      "tin": "4449973e-fe67-4101-abf1-98cc8431350b",
+      "passportNo": "10899d93-7fb2-41bd-be3a-231090db7e32",
+      "driversLicense": "70f9d634-f50b-4171-bc08-4fe02526779c",
+      "postalId": "9dd920a1-b09e-479f-a9d4-84e20f03b518",
+      "votersId": "a30a1bcb-f1d6-4414-bf39-43b6b17da305",
+      "nbi": "4aa4b5a2-3813-40b2-af34-0548d6874823",
+      "policeClearance": "f30938fd-01f2-41ac-99ac-e071735d021c",
+      "barangayClearance": "be5f7898-9ae2-4cb6-9860-f654311416bb"
+    },
+    "employeeInfo": {
+      "employeeId": "579438a3-9716-4a37-952f-f2cc736dc9a9",
+      "position": "Investor Program Assistant",
+      "department": "Automotive",
+      "dateHired": "2022-08-24",
+      "employmentStatus": "Active"
+    },
+    "username": "@jalynaschmidt",
+    "email": "jalynaschmidt@mail.com",
+    "password": "$2b$10$l3pRq5HbLbd/lCmZml4kGe5s6MOGs5LeGLsBfVqKtMLz4DZNagorq",
+    "userType": "Employee",
+    "failedAttempts": 0,
+    "lockoutUntil": null,
+    "status": {
+      "isDeleted": false,
+      "isArchived": false
+    },
+    "createdAt": "2025-06-13T10:04:25+08:00",
+    "updatedAt": "2025-06-13T10:04:25+08:00",
+    "__v": 0
+  },
+  {
+    "basicInfo": {
+      "firstName": "Mckenna",
+      "lastName": "Hessel",
+      "middleName": "Addison",
+      "birthDate": "1994-11-29",
+      "height": 175,
+      "weight": 79,
+      "spouse": "Kristina Durgan",
+      "namesOfChildren": [
+        "Juliet",
+        "Issac"
+      ],
+      "maritalStatus": "Single",
+      "gender": "Female",
+      "profileImage": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/11.jpg"
+    },
+    "contactInfo": {
+      "address": {
+        "street": "1051 Quigley Wall",
+        "city": "Mandaluyong",
+        "province": "Metro Manila",
+        "country": "Philippines",
+        "postalCode": "15498"
+      },
+      "contactNumber": "09408-873-3817 x49934",
+      "emergencyContact": {
+        "name": "Clint Franey",
+        "number": "09(403) 267-9757 x0979"
+      }
+    },
+    "educationInfo": {
+      "Elementary": {
+        "name": "Lesch - O'Kon Elementary School",
+        "yearGraduated": 2000
+      },
+      "HighSchool": {
+        "name": "Boyle - Becker High School",
+        "yearGraduated": 2005
+      },
+      "College": {
+        "name": "Kihn Group University",
+        "yearGraduated": 2018
+      }
+    },
+    "employeeRecords": [
+      {
+        "companyName": "Veum, Satterfield and Walter",
+        "position": "Future Solutions Associate",
+        "startDate": "2019-03-24",
+        "endDate": "2019-08-12",
+        "salary": 57834
+      },
+      {
+        "companyName": "Sawayn - Hudson",
+        "position": "Global Marketing Orchestrator",
+        "startDate": "2015-09-09",
+        "endDate": "2024-06-16",
+        "salary": 91022
+      },
+      {
+        "companyName": "Gleichner - Schumm",
+        "position": "Chief Web Supervisor",
+        "startDate": "2022-04-14",
+        "endDate": "2023-05-23",
+        "salary": 31675
+      }
+    ],
+    "governmentInfo": {
+      "sss": "023e6c29-3afa-459c-afca-c7e8f666631f",
+      "pagIbig": "427b2b12-0b76-4d2e-8470-7223b2940869",
+      "philHealth": "aa231b02-ae3d-42c3-b934-522c4a341fa1",
+      "tin": "b983c1cd-4712-4c70-9791-19500ccd3a47",
+      "passportNo": "4c65a239-f7da-465f-8534-90c150eeb16d",
+      "driversLicense": "8dfec8ee-aa78-4022-a45b-b3100fe45390",
+      "postalId": "1b9a2dd0-9afe-4378-b6bc-4e4617b5a65e",
+      "votersId": "615f3cd8-906c-4b04-9849-8a9a3c6e9ed9",
+      "nbi": "bb6b0d1a-6d3f-42e4-add2-abe032303ccc",
+      "policeClearance": "2c98a6f6-21ef-4ae8-8330-a29f411d90c3",
+      "barangayClearance": "10213777-c7c5-4262-9cf6-ea07e8853a0e"
+    },
+    "employeeInfo": {
+      "employeeId": "807c50c3-4f2c-4bb6-b146-dade1af58747",
+      "position": "National Intranet Developer",
+      "department": "Home",
+      "dateHired": "2020-08-20",
+      "employmentStatus": "Inactive"
+    },
+    "username": "@mckennaahessel",
+    "email": "mckennaahessel@mail.com",
+    "password": "$2b$10$FuEUxjMbpnwIdpS83ERKQ..hlbbp42LhvOiiPYF64oiWx3d6.FrAq",
+    "userType": "Employee",
+    "failedAttempts": 0,
+    "lockoutUntil": null,
+    "status": {
+      "isDeleted": false,
+      "isArchived": false
+    },
+    "createdAt": "2025-06-13T10:04:25+08:00",
+    "updatedAt": "2025-06-13T10:04:25+08:00",
+    "__v": 0
+  },
+  {
+    "basicInfo": {
+      "firstName": "Tomasa",
+      "lastName": "Davis",
+      "middleName": "Sage",
+      "birthDate": "1992-09-29",
+      "height": 174,
+      "weight": 65,
+      "spouse": "Patsy Morar",
+      "namesOfChildren": [
+        "Dayna",
+        "Marcelina"
+      ],
+      "maritalStatus": "Separated",
+      "gender": "Other",
+      "profileImage": "https://avatars.githubusercontent.com/u/35092386"
+    },
+    "contactInfo": {
+      "address": {
+        "street": "76532 Berenice Cove",
+        "city": "Parañaque",
+        "province": "Metro Manila",
+        "country": "Philippines",
+        "postalCode": "15922"
+      },
+      "contactNumber": "091-707-594-5591 x03412",
+      "emergencyContact": {
+        "name": "Mrs. Lynette Heidenreich",
+        "number": "091-391-382-6174"
+      }
+    },
+    "educationInfo": {
+      "Elementary": {
+        "name": "Marquardt, Witting and Price Elementary School",
+        "yearGraduated": 1999
+      },
+      "HighSchool": {
+        "name": "Hamill - Haley High School",
+        "yearGraduated": 2006
+      },
+      "College": {
+        "name": "Rosenbaum Inc University",
+        "yearGraduated": 2014
+      }
+    },
+    "employeeRecords": [
+      {
+        "companyName": "Simonis - Nikolaus",
+        "position": "Principal Tactics Orchestrator",
+        "startDate": "2018-09-18",
+        "endDate": "2019-11-03",
+        "salary": 33613
+      }
+    ],
+    "governmentInfo": {
+      "sss": "bca2e833-2122-4032-ada9-0f561edf13e6",
+      "pagIbig": "8037c771-4f63-47b3-9cd4-e8f541c2fb5e",
+      "philHealth": "8080a539-e337-4837-b86a-2ec20688a86a",
+      "tin": "48e5dd8d-b6fb-4b97-9037-62244ed0d32e",
+      "passportNo": "3c9d9e44-4092-401d-b138-f2e81efdf360",
+      "driversLicense": "1278f03f-2b0f-400e-8115-af4ca0ad93bd",
+      "postalId": "7d748fb9-0ba2-4dfe-89e5-cc83310674ff",
+      "votersId": "51e0e1f8-3c99-4e3a-91ae-2b38234df05a",
+      "nbi": "e0a2dfff-319a-4c7a-9714-c6f9e4bfd4d1",
+      "policeClearance": "8c4f8c32-c00a-474c-ae4f-21f56fc33a02",
+      "barangayClearance": "e539c874-ea86-4cb4-b87a-9ffd5c0791bd"
+    },
+    "employeeInfo": {
+      "employeeId": "4e6d7965-abfa-4a78-b24a-4191322a34a4",
+      "position": "Corporate Quality Executive",
+      "department": "Beauty",
+      "dateHired": "2024-07-16",
+      "employmentStatus": "Inactive"
+    },
+    "username": "@tomasasdavis",
+    "email": "tomasasdavis@mail.com",
+    "password": "$2b$10$l2.Txaze./xzU0NCHfLUHuDMnliwmEN4V0x/7fs1YOWJM0/q9vIt.",
+    "userType": "Employee",
+    "failedAttempts": 0,
+    "lockoutUntil": null,
+    "status": {
+      "isDeleted": false,
+      "isArchived": false
+    },
+    "createdAt": "2025-06-13T10:04:25+08:00",
+    "updatedAt": "2025-06-13T10:04:25+08:00",
+    "__v": 0
+  },
+  {
+    "basicInfo": {
+      "firstName": "Lennie",
+      "lastName": "Schroeder",
+      "middleName": "Shawn",
+      "birthDate": "2002-04-03",
+      "height": 188,
+      "weight": 78,
+      "spouse": "Mr. Perry King",
+      "namesOfChildren": [
+        "Tyra",
+        "Hilario"
+      ],
+      "maritalStatus": "Widowed",
+      "gender": "Female",
+      "profileImage": "https://avatars.githubusercontent.com/u/86117330"
+    },
+    "contactInfo": {
+      "address": {
+        "street": "83869 Lola Hollow",
+        "city": "Manila",
+        "province": "Metro Manila",
+        "country": "Philippines",
+        "postalCode": "16762"
+      },
+      "contactNumber": "091-787-835-7392",
+      "emergencyContact": {
+        "name": "Emanuel Haley",
+        "number": "09509-283-6439 x80332"
+      }
+    },
+    "educationInfo": {
+      "Elementary": {
+        "name": "Towne Group Elementary School",
+        "yearGraduated": 1991
+      },
+      "HighSchool": {
+        "name": "Gislason - Considine High School",
+        "yearGraduated": 2006
+      },
+      "College": {
+        "name": "Rutherford, Gutmann and Toy University",
+        "yearGraduated": 2019
+      }
+    },
+    "employeeRecords": [
+      {
+        "companyName": "Lynch Group",
+        "position": "Corporate Data Executive",
+        "startDate": "2019-11-18",
+        "endDate": "2024-03-19",
+        "salary": 88405
+      },
+      {
+        "companyName": "Kub and Sons",
+        "position": "Product Accountability Architect",
+        "startDate": "2018-10-15",
+        "endDate": "2021-06-11",
+        "salary": 69621
+      },
+      {
+        "companyName": "Shields Inc",
+        "position": "District Communications Officer",
+        "startDate": "2016-09-10",
+        "endDate": "2019-02-28",
+        "salary": 30198
+      }
+    ],
+    "governmentInfo": {
+      "sss": "42994b68-8920-4045-bbc2-91b061b4c372",
+      "pagIbig": "6551672c-99ce-40c1-b0e8-53d012307e7e",
+      "philHealth": "69aad80f-1c92-487e-bb26-a0739a95b67e",
+      "tin": "7a56ecae-1250-4adc-abb3-1bfdc2f1d39b",
+      "passportNo": "b889e0d8-a0b1-4197-97bd-f8cc35fe2d4a",
+      "driversLicense": "2fe884c8-1d81-4e22-a9f6-f98695092b17",
+      "postalId": "510e1969-3529-4c4f-b842-d3ef4fce777a",
+      "votersId": "029d0a42-37e4-4e3d-bde3-fdc57839058e",
+      "nbi": "4ce47e10-ea32-4a2e-bbe6-6e0a467b9fa8",
+      "policeClearance": "8f275223-6c4e-4de8-a90a-2185c2226a0e",
+      "barangayClearance": "4592864d-b074-48c2-9235-111fd4f8203c"
+    },
+    "employeeInfo": {
+      "employeeId": "5a1e119b-c55e-4218-9e12-27b87bd9200f",
+      "position": "Central Research Director",
+      "department": "Music",
+      "dateHired": "2022-10-31",
+      "employmentStatus": "On Leave"
+    },
+    "username": "@lenniesschroeder",
+    "email": "lenniesschroeder@mail.com",
+    "password": "$2b$10$8Z.loPfAiSa/I4jRoCzAFuI9Piy3YlKlx9EbDOtYG9jvGrow9ETxK",
+    "userType": "Employee",
+    "failedAttempts": 0,
+    "lockoutUntil": null,
+    "status": {
+      "isDeleted": false,
+      "isArchived": false
+    },
+    "createdAt": "2025-06-13T10:04:25+08:00",
+    "updatedAt": "2025-06-13T10:04:25+08:00",
+    "__v": 0
+  },
+  {
+    "basicInfo": {
+      "firstName": "Mabelle",
+      "lastName": "Ryan",
+      "middleName": "Kendall",
+      "birthDate": "1972-04-03",
+      "height": 177,
+      "weight": 98,
+      "spouse": "Phillip Champlin",
+      "namesOfChildren": [
+        "Gustave",
+        "Alyson"
+      ],
+      "maritalStatus": "Separated",
+      "gender": "Other",
+      "profileImage": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/15.jpg"
+    },
+    "contactInfo": {
+      "address": {
+        "street": "72589 Treva Ways",
+        "city": "Marikina",
+        "province": "Metro Manila",
+        "country": "Philippines",
+        "postalCode": "12260"
+      },
+      "contactNumber": "09(355) 854-9201",
+      "emergencyContact": {
+        "name": "Lillian Gerhold",
+        "number": "09(655) 758-5780 x5254"
+      }
+    },
+    "educationInfo": {
+      "Elementary": {
+        "name": "Krajcik, Ankunding and Aufderhar Elementary School",
+        "yearGraduated": 1994
+      },
+      "HighSchool": {
+        "name": "Lemke, Wolff and Fisher High School",
+        "yearGraduated": 2007
+      },
+      "College": {
+        "name": "Johnson - MacGyver University",
+        "yearGraduated": 2010
+      }
+    },
+    "employeeRecords": [
+      {
+        "companyName": "Brekke, Bernier and Gulgowski",
+        "position": "Corporate Marketing Coordinator",
+        "startDate": "2021-07-12",
+        "endDate": "2022-12-19",
+        "salary": 92269
+      }
+    ],
+    "governmentInfo": {
+      "sss": "ee53353d-3be4-4b0b-aee3-48c8779aa431",
+      "pagIbig": "fabb6c82-d201-4c38-8b19-3319b88c3c90",
+      "philHealth": "20f1ca25-39f4-4efb-97cd-3f43c6bf1dfa",
+      "tin": "903ada41-0be7-4b3f-b25e-2eefd9095f48",
+      "passportNo": "c18809ab-c27a-4b51-a571-3c3abbdd8edb",
+      "driversLicense": "a1b4bf04-3e7e-420c-a905-9252c8dd1ccd",
+      "postalId": "33acf0be-72fd-4605-bcf1-022a46495f7a",
+      "votersId": "eb2cde32-653d-4c17-9bdf-baebf774958d",
+      "nbi": "58a1a9dc-5387-4f19-a8d2-7970136c267a",
+      "policeClearance": "032ed9ff-1a28-4dff-987b-f5dd1b9c4a90",
+      "barangayClearance": "a4e3b614-9afe-4565-a095-49a38f1eb0c9"
+    },
+    "employeeInfo": {
+      "employeeId": "684aba47-322e-4d4c-8393-f22c645ee5e4",
+      "position": "Investor Configuration Agent",
+      "department": "Outdoors",
+      "dateHired": "2020-11-29",
+      "employmentStatus": "On Leave"
+    },
+    "username": "@mabellekryan",
+    "email": "mabellekryan@mail.com",
+    "password": "$2b$10$eSknruqUX63CVn4V5mXRpuKoMyyQLCc5Oz7qALp8rZC1dchvUfVUC",
+    "userType": "Employee",
+    "failedAttempts": 0,
+    "lockoutUntil": null,
+    "status": {
+      "isDeleted": false,
+      "isArchived": false
+    },
+    "createdAt": "2025-06-13T10:04:25+08:00",
+    "updatedAt": "2025-06-13T10:04:25+08:00",
+    "__v": 0
+  },
+  {
+    "basicInfo": {
+      "firstName": "Rosalind",
+      "lastName": "Stehr",
+      "middleName": "Shiloh",
+      "birthDate": "1977-05-08",
+      "height": 180,
+      "weight": 89,
+      "spouse": "Kelli Thiel",
+      "namesOfChildren": [
+        "Wade",
+        "Caleigh"
+      ],
+      "maritalStatus": "Separated",
+      "gender": "Male",
+      "profileImage": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/52.jpg"
+    },
+    "contactInfo": {
+      "address": {
+        "street": "2338 Park Place",
+        "city": "Marikina",
+        "province": "Metro Manila",
+        "country": "Philippines",
+        "postalCode": "18157"
+      },
+      "contactNumber": "09479-797-5083 x52623",
+      "emergencyContact": {
+        "name": "Ms. Mary Block",
+        "number": "09390-839-0741"
+      }
+    },
+    "educationInfo": {
+      "Elementary": {
+        "name": "Wolff, Skiles and Lindgren Elementary School",
+        "yearGraduated": 1996
+      },
+      "HighSchool": {
+        "name": "Walker, Streich and Bartell High School",
+        "yearGraduated": 2009
+      },
+      "College": {
+        "name": "Ledner - Bradtke University",
+        "yearGraduated": 2011
+      }
+    },
+    "employeeRecords": [
+      {
+        "companyName": "Cruickshank LLC",
+        "position": "Chief Marketing Manager",
+        "startDate": "2017-05-03",
+        "endDate": "2017-06-20",
+        "salary": 36684
+      }
+    ],
+    "governmentInfo": {
+      "sss": "0c555493-5bd0-4457-9386-ea1d9ff41bd5",
+      "pagIbig": "39b11c8c-83f6-4d31-b2e5-b3224cb5bedf",
+      "philHealth": "f5b1f8f3-96fc-4492-99dd-dd3d10fbb385",
+      "tin": "2ec0cd1d-8dab-4049-a18c-ac87dbc0d36b",
+      "passportNo": "b226fdc0-4dd5-410f-bdcd-a37072abbe69",
+      "driversLicense": "0df3447a-0813-4e6d-999b-35686af6da63",
+      "postalId": "cec5d896-b583-4803-9464-b012d0a398f7",
+      "votersId": "91e3e6c0-87ab-4bbf-9241-d429ea8ebaf5",
+      "nbi": "7ab0d124-ae12-46e3-8bfb-9e19c69966c3",
+      "policeClearance": "f62fb486-6dbd-44b4-b200-8229a585de05",
+      "barangayClearance": "1a96ca19-3cdc-45ce-98c9-e86328fbda31"
+    },
+    "employeeInfo": {
+      "employeeId": "2ba71ae2-c644-496c-bb79-1180af6f9595",
+      "position": "Principal Group Supervisor",
+      "department": "Computers",
+      "dateHired": "2024-11-03",
+      "employmentStatus": "On Leave"
+    },
+    "username": "@rosalindsstehr",
+    "email": "rosalindsstehr@mail.com",
+    "password": "$2b$10$H98qE5kVq8uYEgpjD66tQ.7.jQXyFNlJo9q7v1pm1MN4Z2enJYZt.",
+    "userType": "Employee",
+    "failedAttempts": 0,
+    "lockoutUntil": null,
+    "status": {
+      "isDeleted": false,
+      "isArchived": false
+    },
+    "createdAt": "2025-06-13T10:04:25+08:00",
+    "updatedAt": "2025-06-13T10:04:25+08:00",
+    "__v": 0
+  },
+  {
+    "basicInfo": {
+      "firstName": "Freddy",
+      "lastName": "Macejkovic",
+      "middleName": "Jules",
+      "birthDate": "2001-07-16",
+      "height": 150,
+      "weight": 81,
+      "spouse": "Wilma Hirthe",
+      "namesOfChildren": [
+        "Jaeden",
+        "Kasey"
+      ],
+      "maritalStatus": "Married",
+      "gender": "Male",
+      "profileImage": "https://avatars.githubusercontent.com/u/6953239"
+    },
+    "contactInfo": {
+      "address": {
+        "street": "1904 Sidney Overpass",
+        "city": "Pasig",
+        "province": "Metro Manila",
+        "country": "Philippines",
+        "postalCode": "16427"
+      },
+      "contactNumber": "09(599) 852-9478 x9841",
+      "emergencyContact": {
+        "name": "Blake Fahey",
+        "number": "09436.735.8886"
+      }
+    },
+    "educationInfo": {
+      "Elementary": {
+        "name": "Blanda - Kuphal Elementary School",
+        "yearGraduated": 1991
+      },
+      "HighSchool": {
+        "name": "Mosciski LLC High School",
+        "yearGraduated": 2006
+      },
+      "College": {
+        "name": "Morissette, Wyman and Harvey University",
+        "yearGraduated": 2011
+      }
+    },
+    "employeeRecords": [
+      {
+        "companyName": "Parker - O'Keefe",
+        "position": "Customer Directives Facilitator",
+        "startDate": "2018-10-09",
+        "endDate": "2020-06-19",
+        "salary": 59535
+      },
+      {
+        "companyName": "Nolan and Sons",
+        "position": "National Integration Director",
+        "startDate": "2023-01-03",
+        "endDate": "2024-08-18",
+        "salary": 90752
+      }
+    ],
+    "governmentInfo": {
+      "sss": "b3e7d26e-cb4d-4dd8-bab8-70b18e262a5c",
+      "pagIbig": "64869f1f-0f13-45d3-aa50-c33fb10e1495",
+      "philHealth": "dcad12ba-8670-4408-9c73-d7a7395b709e",
+      "tin": "b3b1e044-10cb-4134-828b-41f055bbc8b1",
+      "passportNo": "f6c548e8-c9c0-4a89-9fda-5d256a3d3975",
+      "driversLicense": "7636f10a-2ab0-41db-adad-98557f4aa9ab",
+      "postalId": "546117aa-9a34-4a04-92b8-21a387f6ddc0",
+      "votersId": "305f25f9-6e2c-44ad-94ef-200a488456fc",
+      "nbi": "472e4bac-107e-49c5-ac63-a787d182e070",
+      "policeClearance": "3a85f9fa-ee88-44a4-a322-25d5994da0d2",
+      "barangayClearance": "55a304ec-0a2a-4338-bde7-64e4fc3af48e"
+    },
+    "employeeInfo": {
+      "employeeId": "1eff6377-4063-4c73-8656-571cb4045e43",
+      "position": "Principal Creative Architect",
+      "department": "Beauty",
+      "dateHired": "2023-06-14",
+      "employmentStatus": "Inactive"
+    },
+    "username": "@freddyjmacejkovic",
+    "email": "freddyjmacejkovic@mail.com",
+    "password": "$2b$10$DZvKP/z6qcWS2KWpngy9Su/FzkZRpBaP5/6A89q0jPWbSgb3uCIYa",
+    "userType": "Employee",
+    "failedAttempts": 0,
+    "lockoutUntil": null,
+    "status": {
+      "isDeleted": false,
+      "isArchived": false
+    },
+    "createdAt": "2025-06-13T10:04:25+08:00",
+    "updatedAt": "2025-06-13T10:04:25+08:00",
+    "__v": 0
+  },
+  {
+    "basicInfo": {
+      "firstName": "Bill",
+      "lastName": "Wilkinson",
+      "middleName": "Reese",
+      "birthDate": "2002-09-25",
+      "height": 179,
+      "weight": 95,
+      "spouse": "Mr. Delbert Legros",
+      "namesOfChildren": [
+        "Jakayla",
+        "Angeline"
+      ],
+      "maritalStatus": "Divorced",
+      "gender": "Female",
+      "profileImage": "https://avatars.githubusercontent.com/u/31498772"
+    },
+    "contactInfo": {
+      "address": {
+        "street": "6333 Bartoletti Keys",
+        "city": "Navotas",
+        "province": "Metro Manila",
+        "country": "Philippines",
+        "postalCode": "15825"
+      },
+      "contactNumber": "091-519-211-5456 x792",
+      "emergencyContact": {
+        "name": "Kerry Lehner",
+        "number": "09623.905.6714"
+      }
+    },
+    "educationInfo": {
+      "Elementary": {
+        "name": "Hahn - O'Conner Elementary School",
+        "yearGraduated": 1998
+      },
+      "HighSchool": {
+        "name": "Dare Group High School",
+        "yearGraduated": 2009
+      },
+      "College": {
+        "name": "Nitzsche, Roob and Von University",
+        "yearGraduated": 2013
+      }
+    },
+    "employeeRecords": [
+      {
+        "companyName": "Johnston - Hintz",
+        "position": "Future Integration Facilitator",
+        "startDate": "2021-10-24",
+        "endDate": "2022-04-06",
+        "salary": 76849
+      },
+      {
+        "companyName": "Stark, Rice and Franecki",
+        "position": "Product Functionality Developer",
+        "startDate": "2017-08-18",
+        "endDate": "2020-04-05",
+        "salary": 94091
+      },
+      {
+        "companyName": "Hintz, Jakubowski and Hamill",
+        "position": "Future Research Manager",
+        "startDate": "2017-12-05",
+        "endDate": "2018-11-24",
+        "salary": 61459
+      }
+    ],
+    "governmentInfo": {
+      "sss": "8f62b6da-fd7a-485d-8a40-8cb6296e65c5",
+      "pagIbig": "e7039d61-1b30-46b2-b190-acb1a158ae53",
+      "philHealth": "09043c2f-31f0-47f3-9a47-96ab247b5933",
+      "tin": "2464f67b-1431-4cbf-9a19-975fa43ca90b",
+      "passportNo": "a4898214-2333-4b57-bbbe-179e0badfe55",
+      "driversLicense": "3c896cf7-d0f8-4aab-9ae2-6f0273496de5",
+      "postalId": "310e72c5-4ebb-43b4-a262-590a50b5cf1c",
+      "votersId": "6119b3ca-bd55-45d3-b8f4-6294e6c2d587",
+      "nbi": "ba0a0339-6082-449d-9f08-4c71ec0c05d5",
+      "policeClearance": "df2068d9-5c7c-410d-90dd-5ae4062666bc",
+      "barangayClearance": "b764cd9b-9204-44cc-b896-c5ac103f9ba3"
+    },
+    "employeeInfo": {
+      "employeeId": "f98a502a-48fb-4aa7-9775-0f4fd30914bb",
+      "position": "Principal Marketing Orchestrator",
+      "department": "Jewelry",
+      "dateHired": "2022-05-24",
+      "employmentStatus": "Terminated"
+    },
+    "username": "@billrwilkinson",
+    "email": "billrwilkinson@mail.com",
+    "password": "$2b$10$fYJqZlDRTy3UD93pKFK8IuX95AxHMzGbPUKb10MuFjbC9seOHTFQ.",
+    "userType": "Employee",
+    "failedAttempts": 0,
+    "lockoutUntil": null,
+    "status": {
+      "isDeleted": false,
+      "isArchived": false
+    },
+    "createdAt": "2025-06-13T10:04:25+08:00",
+    "updatedAt": "2025-06-13T10:04:25+08:00",
+    "__v": 0
+  },
+  {
+    "basicInfo": {
+      "firstName": "Skylar",
+      "lastName": "Friesen",
+      "middleName": "Reese",
+      "birthDate": "1978-04-04",
+      "height": 154,
+      "weight": 69,
+      "spouse": "Kayla Weissnat",
+      "namesOfChildren": [
+        "Cindy",
+        "Anderson"
+      ],
+      "maritalStatus": "Separated",
+      "gender": "Male",
+      "profileImage": "https://avatars.githubusercontent.com/u/53789835"
+    },
+    "contactInfo": {
+      "address": {
+        "street": "97685 Bridge Street",
+        "city": "Quezon City",
+        "province": "Metro Manila",
+        "country": "Philippines",
+        "postalCode": "10745"
+      },
+      "contactNumber": "09664-624-5785 x7869",
+      "emergencyContact": {
+        "name": "Roland Hackett",
+        "number": "09(539) 849-9360 x70385"
+      }
+    },
+    "educationInfo": {
+      "Elementary": {
+        "name": "Smith Inc Elementary School",
+        "yearGraduated": 2002
+      },
+      "HighSchool": {
+        "name": "Hartmann, Brakus and Mann High School",
+        "yearGraduated": 2006
+      },
+      "College": {
+        "name": "Bins - Satterfield University",
+        "yearGraduated": 2018
+      }
+    },
+    "employeeRecords": [
+      {
+        "companyName": "Mayer, Bergstrom and Aufderhar",
+        "position": "Legacy Solutions Facilitator",
+        "startDate": "2019-03-10",
+        "endDate": "2022-06-27",
+        "salary": 33938
+      },
+      {
+        "companyName": "Rau, Fahey and Nienow",
+        "position": "International Interactions Assistant",
+        "startDate": "2025-02-15",
+        "endDate": "2025-04-22",
+        "salary": 61333
+      }
+    ],
+    "governmentInfo": {
+      "sss": "6ffc883b-28d4-4aa4-a000-0a03bdf24855",
+      "pagIbig": "d52ffb1c-5f38-41e6-ad0a-9e09567c8911",
+      "philHealth": "eed3f4a7-ffee-42cb-9ac6-6ca8484d114e",
+      "tin": "2f01dc14-4c1d-4e41-bd00-4866b0c1fea9",
+      "passportNo": "a936a3be-37dc-4d72-88b2-2d8504e8f718",
+      "driversLicense": "7baa8e5a-7f85-4d70-8460-d1672a740250",
+      "postalId": "46ee6f51-dede-4fda-988b-1472d229a725",
+      "votersId": "5bb6dcc4-140d-4b10-8b8c-629cb1f1d291",
+      "nbi": "a47d398b-3ba2-4545-8714-d4115d6c156d",
+      "policeClearance": "d71b7081-5d3a-49d2-b2e5-d632d5d297ef",
+      "barangayClearance": "609f3c05-e153-48aa-890c-a93f77f62c3f"
+    },
+    "employeeInfo": {
+      "employeeId": "696e39f4-bcb4-4e1e-a901-f7d965817115",
+      "position": "Forward Group Architect",
+      "department": "Outdoors",
+      "dateHired": "2024-11-11",
+      "employmentStatus": "Inactive"
+    },
+    "username": "@skylarrfriesen",
+    "email": "skylarrfriesen@mail.com",
+    "password": "$2b$10$sJc5PKkFrNrqbBov0NDIfe5u7cagvEI8u/idQ/e.gh.7FALj.mPOu",
+    "userType": "Employee",
+    "failedAttempts": 0,
+    "lockoutUntil": null,
+    "status": {
+      "isDeleted": false,
+      "isArchived": false
+    },
+    "createdAt": "2025-06-13T10:04:25+08:00",
+    "updatedAt": "2025-06-13T10:04:25+08:00",
+    "__v": 0
+  },
+  {
+    "basicInfo": {
+      "firstName": "Ines",
+      "lastName": "Bashirian",
+      "middleName": "Hayden",
+      "birthDate": "2000-09-17",
+      "height": 175,
+      "weight": 75,
+      "spouse": "Rodney Maggio",
+      "namesOfChildren": [
+        "Arvilla",
+        "Paula"
+      ],
+      "maritalStatus": "Single",
+      "gender": "Male",
+      "profileImage": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/4.jpg"
+    },
+    "contactInfo": {
+      "address": {
+        "street": "5194 Deron Courts",
+        "city": "Manila",
+        "province": "Metro Manila",
+        "country": "Philippines",
+        "postalCode": "14500"
+      },
+      "contactNumber": "09(424) 917-3389 x035",
+      "emergencyContact": {
+        "name": "Mr. Emanuel Funk",
+        "number": "09553-986-1622 x682"
+      }
+    },
+    "educationInfo": {
+      "Elementary": {
+        "name": "Paucek, Mohr and Glover Elementary School",
+        "yearGraduated": 2001
+      },
+      "HighSchool": {
+        "name": "Grimes LLC High School",
+        "yearGraduated": 2005
+      },
+      "College": {
+        "name": "Stanton - Fisher University",
+        "yearGraduated": 2019
+      }
+    },
+    "employeeRecords": [
+      {
+        "companyName": "Marquardt - Barrows",
+        "position": "National Infrastructure Associate",
+        "startDate": "2020-11-19",
+        "endDate": "2024-10-30",
+        "salary": 31276
+      }
+    ],
+    "governmentInfo": {
+      "sss": "fb57cccf-63e0-4d10-bb28-dc87a595ad35",
+      "pagIbig": "bc3f77f1-e08a-457f-8f65-eaac430a72ee",
+      "philHealth": "d778e2e6-99fd-4a03-a4ce-edf669faa6ff",
+      "tin": "cc1eb762-b4d0-4ff0-b7d8-0df52cf08e83",
+      "passportNo": "8e15f3c7-1679-4963-b8e9-b7a8b37f50a2",
+      "driversLicense": "4b6c4186-6956-4464-91cf-7070dc57e94a",
+      "postalId": "182ae9cf-35e9-4507-84f6-9d410e3d0996",
+      "votersId": "bf047d92-9418-40ee-8df1-50c2d196d8d8",
+      "nbi": "66de5240-3d9a-4961-94d4-713519d363af",
+      "policeClearance": "2e2b4e0d-8b43-47e7-980f-453f562bc696",
+      "barangayClearance": "7b80b748-f748-404a-9219-3d37622a5a7d"
+    },
+    "employeeInfo": {
+      "employeeId": "d685e273-d01b-43ac-bef9-ac6d20deb6db",
+      "position": "Global Program Strategist",
+      "department": "Clothing",
+      "dateHired": "2022-10-06",
+      "employmentStatus": "On Leave"
+    },
+    "username": "@ineshbashirian",
+    "email": "ineshbashirian@mail.com",
+    "password": "$2b$10$NaZGH9l8yVYW.VX3CdFgz.8Y8cHIcJiah7S5H9tgywOvs0QScHDVy",
+    "userType": "Employee",
+    "failedAttempts": 0,
+    "lockoutUntil": null,
+    "status": {
+      "isDeleted": false,
+      "isArchived": false
+    },
+    "createdAt": "2025-06-13T10:04:25+08:00",
+    "updatedAt": "2025-06-13T10:04:25+08:00",
+    "__v": 0
+  },
+  {
+    "basicInfo": {
+      "firstName": "Trinity",
+      "lastName": "Bogisich",
+      "middleName": "Greer",
+      "birthDate": "1992-04-28",
+      "height": 160,
+      "weight": 88,
+      "spouse": "Tommie Runolfsdottir",
+      "namesOfChildren": [
+        "Robin",
+        "Derick"
+      ],
+      "maritalStatus": "Separated",
+      "gender": "Other",
+      "profileImage": "https://avatars.githubusercontent.com/u/92484392"
+    },
+    "contactInfo": {
+      "address": {
+        "street": "81500 S Grand Avenue",
+        "city": "Caloocan",
+        "province": "Metro Manila",
+        "country": "Philippines",
+        "postalCode": "12509"
+      },
+      "contactNumber": "091-700-636-7593 x029",
+      "emergencyContact": {
+        "name": "Dolores Gerhold",
+        "number": "09740.652.8916"
+      }
+    },
+    "educationInfo": {
+      "Elementary": {
+        "name": "Heaney - Schuppe Elementary School",
+        "yearGraduated": 2000
+      },
+      "HighSchool": {
+        "name": "Carroll - Mann High School",
+        "yearGraduated": 2009
+      },
+      "College": {
+        "name": "Powlowski, Cormier and O'Kon University",
+        "yearGraduated": 2018
+      }
+    },
+    "employeeRecords": [
+      {
+        "companyName": "Lindgren, Bechtelar and Dach",
+        "position": "Chief Security Planner",
+        "startDate": "2023-12-23",
+        "endDate": "2025-04-06",
+        "salary": 34688
+      },
+      {
+        "companyName": "Carter, Muller and Toy",
+        "position": "Forward Group Architect",
+        "startDate": "2021-12-24",
+        "endDate": "2022-04-09",
+        "salary": 46486
+      },
+      {
+        "companyName": "Rodriguez - Purdy",
+        "position": "Human Usability Executive",
+        "startDate": "2015-12-23",
+        "endDate": "2016-11-19",
+        "salary": 25310
+      }
+    ],
+    "governmentInfo": {
+      "sss": "c58efafe-d5f3-4595-b1f1-da582e5fc2a6",
+      "pagIbig": "4133f9e8-d747-4d58-b025-cf4f5181b126",
+      "philHealth": "47408825-d671-4bf5-b603-5117d73942dc",
+      "tin": "6c59d9ba-55d4-4c13-94ff-01fd5a0a5e01",
+      "passportNo": "446949b4-4809-492a-9ce2-a896c1a298eb",
+      "driversLicense": "34199237-b18d-4040-b0f5-fada8fac32bc",
+      "postalId": "1f35df8a-44fd-4079-bb9b-50022854c5d0",
+      "votersId": "c06570bc-5336-441b-9e69-dc6e42836d44",
+      "nbi": "a03bf1db-235e-49db-995a-6ad5a639f64f",
+      "policeClearance": "e7652c59-a715-45b4-9eeb-5f525e5e8deb",
+      "barangayClearance": "23b55db1-db89-47aa-af10-63223c46e2b9"
+    },
+    "employeeInfo": {
+      "employeeId": "b5d9767e-9372-43aa-bec2-cef146020023",
+      "position": "Principal Research Director",
+      "department": "Automotive",
+      "dateHired": "2023-04-18",
+      "employmentStatus": "On Leave"
+    },
+    "username": "@trinitygbogisich",
+    "email": "trinitygbogisich@mail.com",
+    "password": "$2b$10$5H2qD6JPl0lJjDBBjkfCC.kmnXUZ/iEkcu0yEoSUmiMlhU.vu1oNe",
+    "userType": "Employee",
+    "failedAttempts": 0,
+    "lockoutUntil": null,
+    "status": {
+      "isDeleted": false,
+      "isArchived": false
+    },
+    "createdAt": "2025-06-13T10:04:25+08:00",
+    "updatedAt": "2025-06-13T10:04:25+08:00",
+    "__v": 0
+  },
+  {
+    "basicInfo": {
+      "firstName": "Flavie",
+      "lastName": "Ryan",
+      "middleName": "Emerson",
+      "birthDate": "1988-04-20",
+      "height": 167,
+      "weight": 51,
+      "spouse": "Teresa Zemlak",
+      "namesOfChildren": [
+        "Amalia",
+        "Loyal"
+      ],
+      "maritalStatus": "Divorced",
+      "gender": "Other",
+      "profileImage": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/13.jpg"
+    },
+    "contactInfo": {
+      "address": {
+        "street": "553 Heller Streets",
+        "city": "Makati",
+        "province": "Metro Manila",
+        "country": "Philippines",
+        "postalCode": "19872"
+      },
+      "contactNumber": "09(802) 874-2193",
+      "emergencyContact": {
+        "name": "Diana Will",
+        "number": "091-561-300-0887"
+      }
+    },
+    "educationInfo": {
+      "Elementary": {
+        "name": "Ernser Group Elementary School",
+        "yearGraduated": 2004
+      },
+      "HighSchool": {
+        "name": "Koch, Fritsch and Larkin High School",
+        "yearGraduated": 2008
+      },
+      "College": {
+        "name": "Skiles LLC University",
+        "yearGraduated": 2020
+      }
+    },
+    "employeeRecords": [
+      {
+        "companyName": "Abshire, Conn and Streich",
+        "position": "National Markets Designer",
+        "startDate": "2023-07-16",
+        "endDate": "2024-12-05",
+        "salary": 66239
+      },
+      {
+        "companyName": "Pfeffer, Bradtke and Koch",
+        "position": "Investor Metrics Facilitator",
+        "startDate": "2019-03-03",
+        "endDate": "2024-07-20",
+        "salary": 80192
+      },
+      {
+        "companyName": "Koch - Grady",
+        "position": "Regional Factors Agent",
+        "startDate": "2025-06-03",
+        "endDate": "2025-06-05",
+        "salary": 58421
+      }
+    ],
+    "governmentInfo": {
+      "sss": "5eb9cb33-a115-4906-bbae-2ac50105f17d",
+      "pagIbig": "53344f12-27b1-40fd-b118-c176b64ef381",
+      "philHealth": "c38f2164-7ca8-4ae3-9487-b458fe88fe26",
+      "tin": "57a4f0ce-c244-4fbe-b75d-3a835e20b791",
+      "passportNo": "8f643fd9-61e4-4baa-a436-e97faa981e52",
+      "driversLicense": "858b82ba-b6b4-435a-b121-98161917a6fa",
+      "postalId": "580942c9-df9a-4605-9271-7188b2f538e8",
+      "votersId": "96d76a37-2252-4e18-be04-5031711d5495",
+      "nbi": "8ead955b-a28c-4027-9a3d-60023e800bf7",
+      "policeClearance": "686d5e5b-713a-49f2-9623-e97caf7715c9",
+      "barangayClearance": "9ad6c89b-f604-42af-9201-8d7b25b98b51"
+    },
+    "employeeInfo": {
+      "employeeId": "23580387-78e2-4774-be63-0873ff7194b2",
+      "position": "Principal Security Technician",
+      "department": "Outdoors",
+      "dateHired": "2023-04-04",
+      "employmentStatus": "On Leave"
+    },
+    "username": "@flavieeryan",
+    "email": "flavieeryan@mail.com",
+    "password": "$2b$10$mlLmJlcl4Mpseb4vEvvqt.44Q/7L/rHbpIJanBcy.jYFSHb/wWqDC",
+    "userType": "Employee",
+    "failedAttempts": 0,
+    "lockoutUntil": null,
+    "status": {
+      "isDeleted": false,
+      "isArchived": false
+    },
+    "createdAt": "2025-06-13T10:04:25+08:00",
+    "updatedAt": "2025-06-13T10:04:25+08:00",
+    "__v": 0
+  },
+  {
+    "basicInfo": {
+      "firstName": "Zack",
+      "lastName": "Dickens",
+      "middleName": "Anderson",
+      "birthDate": "2000-12-19",
+      "height": 166,
+      "weight": 59,
+      "spouse": "Milton Johnson",
+      "namesOfChildren": [
+        "Ben",
+        "Elmo"
+      ],
+      "maritalStatus": "Married",
+      "gender": "Other",
+      "profileImage": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/75.jpg"
+    },
+    "contactInfo": {
+      "address": {
+        "street": "968 W Union Street",
+        "city": "Makati",
+        "province": "Metro Manila",
+        "country": "Philippines",
+        "postalCode": "16263"
+      },
+      "contactNumber": "09436-377-7352 x01717",
+      "emergencyContact": {
+        "name": "Boyd O'Hara",
+        "number": "091-303-493-5742 x7375"
+      }
+    },
+    "educationInfo": {
+      "Elementary": {
+        "name": "Effertz - Zboncak Elementary School",
+        "yearGraduated": 1997
+      },
+      "HighSchool": {
+        "name": "Kautzer, Torphy and Wilderman High School",
+        "yearGraduated": 2009
+      },
+      "College": {
+        "name": "Nader and Sons University",
+        "yearGraduated": 2015
+      }
+    },
+    "employeeRecords": [
+      {
+        "companyName": "Cruickshank Group",
+        "position": "International Applications Officer",
+        "startDate": "2016-10-25",
+        "endDate": "2017-09-20",
+        "salary": 86014
+      }
+    ],
+    "governmentInfo": {
+      "sss": "2f2fa097-eed9-47e9-86a3-a76d257beb88",
+      "pagIbig": "a6973013-dfa5-435b-b8d5-cea4ff5afd4d",
+      "philHealth": "6db5913f-0947-48ee-af98-d3cab782bc65",
+      "tin": "f1981b61-6382-46ad-93a7-7a2a42b89d05",
+      "passportNo": "cbf64083-2d34-4c8f-a05c-7f61ffc1e24b",
+      "driversLicense": "115b6390-ad86-412c-a9c4-bf4554b6948d",
+      "postalId": "672177f0-4cfd-42a2-a2d4-bca9d904dd1c",
+      "votersId": "874912d9-49fc-477b-952e-5421b15bc573",
+      "nbi": "18f527ba-aee0-4bd2-909f-331dd2402c3c",
+      "policeClearance": "58064d53-e471-4977-9b42-c4f36862f8a5",
+      "barangayClearance": "51eebf9a-c57c-4902-9b24-78fc0e29e05b"
+    },
+    "employeeInfo": {
+      "employeeId": "187f8e26-a725-4899-8fd2-86586ed255e2",
+      "position": "Investor Infrastructure Coordinator",
+      "department": "Tools",
+      "dateHired": "2023-04-30",
+      "employmentStatus": "Terminated"
+    },
+    "username": "@zackadickens",
+    "email": "zackadickens@mail.com",
+    "password": "$2b$10$HGppwHGaEiQiGuN9rfx3nugTZ9.x4AexRrbXphIuuLbbK.Dji8xZe",
+    "userType": "Employee",
+    "failedAttempts": 0,
+    "lockoutUntil": null,
+    "status": {
+      "isDeleted": false,
+      "isArchived": false
+    },
+    "createdAt": "2025-06-13T10:04:25+08:00",
+    "updatedAt": "2025-06-13T10:04:25+08:00",
+    "__v": 0
+  },
+  {
+    "basicInfo": {
+      "firstName": "Vicente",
+      "lastName": "Treutel",
+      "middleName": "August",
+      "birthDate": "2002-06-20",
+      "height": 159,
+      "weight": 67,
+      "spouse": "Jake Champlin",
+      "namesOfChildren": [
+        "Hertha",
+        "Maeve"
+      ],
+      "maritalStatus": "Married",
+      "gender": "Other",
+      "profileImage": "https://avatars.githubusercontent.com/u/96840760"
+    },
+    "contactInfo": {
+      "address": {
+        "street": "60934 Vanessa Centers",
+        "city": "San Juan",
+        "province": "Metro Manila",
+        "country": "Philippines",
+        "postalCode": "10970"
+      },
+      "contactNumber": "09(714) 219-5929 x8102",
+      "emergencyContact": {
+        "name": "Jeffery McDermott",
+        "number": "09906.620.3890 x1271"
+      }
+    },
+    "educationInfo": {
+      "Elementary": {
+        "name": "Mayer - Effertz Elementary School",
+        "yearGraduated": 2003
+      },
+      "HighSchool": {
+        "name": "Hills - Howell High School",
+        "yearGraduated": 2010
+      },
+      "College": {
+        "name": "Langworth Group University",
+        "yearGraduated": 2020
+      }
+    },
+    "employeeRecords": [
+      {
+        "companyName": "Metz, Herman and Shields",
+        "position": "International Research Technician",
+        "startDate": "2020-08-18",
+        "endDate": "2021-10-31",
+        "salary": 26122
+      }
+    ],
+    "governmentInfo": {
+      "sss": "6871d98a-9d96-4a39-9507-a785e3bd65fe",
+      "pagIbig": "c30d3738-75fe-4855-9de8-1e8352630977",
+      "philHealth": "a276aac5-6f42-4318-aa55-1c972a5cc6da",
+      "tin": "8adf0ca9-7c90-45ec-808d-32054ba482ed",
+      "passportNo": "aa367822-1940-482e-a77b-8205f6f7a4b9",
+      "driversLicense": "c5414909-b4fc-49d6-82b6-24be934785a0",
+      "postalId": "bcb74e96-b607-45e9-b301-42a626c36b05",
+      "votersId": "680c074e-b181-4e19-b8cf-31ee759d042e",
+      "nbi": "e31b5b29-fa31-425f-ac4f-7731eec9b713",
+      "policeClearance": "14657ffc-af99-4082-9112-66f6c9ae8e25",
+      "barangayClearance": "50eefd38-24bf-477e-b46f-819447b574db"
+    },
+    "employeeInfo": {
+      "employeeId": "25e9e917-ebe9-44df-aa33-87f2a177a60b",
+      "position": "National Infrastructure Designer",
+      "department": "Industrial",
+      "dateHired": "2021-09-14",
+      "employmentStatus": "On Leave"
+    },
+    "username": "@vicenteatreutel",
+    "email": "vicenteatreutel@mail.com",
+    "password": "$2b$10$kRy97dmayLUOFlVq9X152uBiETpu2ZO2kiqopCExBSW1A6mX8RN0q",
+    "userType": "Employee",
+    "failedAttempts": 0,
+    "lockoutUntil": null,
+    "status": {
+      "isDeleted": false,
+      "isArchived": false
+    },
+    "createdAt": "2025-06-13T10:04:25+08:00",
+    "updatedAt": "2025-06-13T10:04:25+08:00",
+    "__v": 0
+  },
+  {
+    "basicInfo": {
+      "firstName": "Ryann",
+      "lastName": "Zulauf",
+      "middleName": "Kendall",
+      "birthDate": "1986-09-28",
+      "height": 154,
+      "weight": 69,
+      "spouse": "Luis Leannon",
+      "namesOfChildren": [
+        "Austyn",
+        "Eugene"
+      ],
+      "maritalStatus": "Married",
+      "gender": "Other",
+      "profileImage": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/6.jpg"
+    },
+    "contactInfo": {
+      "address": {
+        "street": "3041 E Market Street",
+        "city": "San Juan",
+        "province": "Metro Manila",
+        "country": "Philippines",
+        "postalCode": "14196"
+      },
+      "contactNumber": "09(774) 851-5820 x547",
+      "emergencyContact": {
+        "name": "Misty Spinka",
+        "number": "09(436) 856-9513 x060"
+      }
+    },
+    "educationInfo": {
+      "Elementary": {
+        "name": "Hayes, Mertz and Grant Elementary School",
+        "yearGraduated": 1998
+      },
+      "HighSchool": {
+        "name": "Grady - McGlynn High School",
+        "yearGraduated": 2006
+      },
+      "College": {
+        "name": "Cummerata - Satterfield University",
+        "yearGraduated": 2012
+      }
+    },
+    "employeeRecords": [
+      {
+        "companyName": "Gutkowski - Wilkinson",
+        "position": "Customer Mobility Representative",
+        "startDate": "2019-03-12",
+        "endDate": "2019-06-09",
+        "salary": 87337
+      }
+    ],
+    "governmentInfo": {
+      "sss": "7774abb3-f574-4145-8aee-7d1bbf8f9644",
+      "pagIbig": "687625d4-e759-4eb1-a88b-05c8ff484f1c",
+      "philHealth": "e694e24b-daf4-409f-a231-7f993327af6f",
+      "tin": "40b922f4-dfcc-472e-8c05-b90e45c23b0d",
+      "passportNo": "c74a6c25-588f-49e5-a7c3-e25ca21f2928",
+      "driversLicense": "900b7afb-5ab1-4d38-809f-d2aeb526ae7f",
+      "postalId": "1892a102-39cb-4934-b12e-eb7d39898b00",
+      "votersId": "7fd9aaf8-3ac7-4d00-ae97-176abb00e7fc",
+      "nbi": "d4f63f59-7358-49ad-9fca-b52cdf543b11",
+      "policeClearance": "a9e545f9-6691-437e-b0be-e6f1b55609be",
+      "barangayClearance": "94bab94b-e18a-4ac0-8794-a81610af4a08"
+    },
+    "employeeInfo": {
+      "employeeId": "52d37337-7bc5-4bd9-a61a-7224b46f21b4",
+      "position": "Direct Implementation Liaison",
+      "department": "Beauty",
+      "dateHired": "2024-05-03",
+      "employmentStatus": "Active"
+    },
+    "username": "@ryannkzulauf",
+    "email": "ryannkzulauf@mail.com",
+    "password": "$2b$10$.AnZ42N.nDlhClHRkWB8M.N.0vrF5iq04//pCxHUK.cynsFvlo77K",
+    "userType": "Employee",
+    "failedAttempts": 0,
+    "lockoutUntil": null,
+    "status": {
+      "isDeleted": false,
+      "isArchived": false
+    },
+    "createdAt": "2025-06-13T10:04:25+08:00",
+    "updatedAt": "2025-06-13T10:04:25+08:00",
+    "__v": 0
+  },
+  {
+    "basicInfo": {
+      "firstName": "Loraine",
+      "lastName": "Dibbert",
+      "middleName": "Sage",
+      "birthDate": "1983-07-21",
+      "height": 181,
+      "weight": 76,
+      "spouse": "Doris Langworth",
+      "namesOfChildren": [
+        "Sylvia",
+        "Price"
+      ],
+      "maritalStatus": "Single",
+      "gender": "Female",
+      "profileImage": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/79.jpg"
+    },
+    "contactInfo": {
+      "address": {
+        "street": "29779 Hillside Close",
+        "city": "Las Piñas",
+        "province": "Metro Manila",
+        "country": "Philippines",
+        "postalCode": "13215"
+      },
+      "contactNumber": "091-473-890-3832",
+      "emergencyContact": {
+        "name": "Kelly Ledner",
+        "number": "09759.616.1192"
+      }
+    },
+    "educationInfo": {
+      "Elementary": {
+        "name": "Swift Group Elementary School",
+        "yearGraduated": 1993
+      },
+      "HighSchool": {
+        "name": "Kertzmann - Nienow High School",
+        "yearGraduated": 2010
+      },
+      "College": {
+        "name": "Lowe - Barton University",
+        "yearGraduated": 2016
+      }
+    },
+    "employeeRecords": [
+      {
+        "companyName": "Jacobs - McKenzie",
+        "position": "Human Branding Associate",
+        "startDate": "2019-01-20",
+        "endDate": "2023-03-21",
+        "salary": 80277
+      },
+      {
+        "companyName": "Douglas - Mitchell",
+        "position": "Product Intranet Developer",
+        "startDate": "2025-03-14",
+        "endDate": "2025-04-23",
+        "salary": 32043
+      },
+      {
+        "companyName": "Rosenbaum - Lowe",
+        "position": "Direct Optimization Technician",
+        "startDate": "2021-06-10",
+        "endDate": "2021-08-13",
+        "salary": 81066
+      }
+    ],
+    "governmentInfo": {
+      "sss": "b5d5ef82-e3b1-442a-bc73-50ba4c1c2187",
+      "pagIbig": "63c7ca6c-786f-4a79-8db1-f4f22ff089c9",
+      "philHealth": "b05c550e-0b2b-45ab-9e8b-597a11064681",
+      "tin": "414925d8-f303-43d7-9a42-0a6682a6ac26",
+      "passportNo": "4ff6b5a6-47b1-437e-8933-a93483dcc8c1",
+      "driversLicense": "003ef7aa-c8e3-458b-ae9c-ab74c3d3c84a",
+      "postalId": "8c71ae35-8e7c-4afa-a571-ddc12b208263",
+      "votersId": "f64dc148-7bb7-498b-a1e0-a488674758aa",
+      "nbi": "a8b099fd-52e7-43f6-9401-ba07dd978472",
+      "policeClearance": "5a010f8b-d595-4cb8-a894-b4a2a28f4354",
+      "barangayClearance": "d9991a29-887e-4986-9252-f88212878370"
+    },
+    "employeeInfo": {
+      "employeeId": "1c987844-d813-4451-b8fb-9d199599cb6d",
+      "position": "Corporate Accounts Assistant",
+      "department": "Outdoors",
+      "dateHired": "2024-06-25",
+      "employmentStatus": "Terminated"
+    },
+    "username": "@lorainesdibbert",
+    "email": "lorainesdibbert@mail.com",
+    "password": "$2b$10$xwDo61oyHy8ajV62ubsfguqoecgp43ZpOavNcQrmrz6jiX5dD957.",
+    "userType": "Employee",
+    "failedAttempts": 0,
+    "lockoutUntil": null,
+    "status": {
+      "isDeleted": false,
+      "isArchived": false
+    },
+    "createdAt": "2025-06-13T10:04:25+08:00",
+    "updatedAt": "2025-06-13T10:04:25+08:00",
+    "__v": 0
+  },
+  {
+    "basicInfo": {
+      "firstName": "Antonina",
+      "lastName": "Mraz",
+      "middleName": "River",
+      "birthDate": "1989-07-12",
+      "height": 176,
+      "weight": 62,
+      "spouse": "Dr. Oliver Kuhic",
+      "namesOfChildren": [
+        "Aron",
+        "Ernie"
+      ],
+      "maritalStatus": "Divorced",
+      "gender": "Male",
+      "profileImage": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/96.jpg"
+    },
+    "contactInfo": {
+      "address": {
+        "street": "9921 E 2nd Street",
+        "city": "Parañaque",
+        "province": "Metro Manila",
+        "country": "Philippines",
+        "postalCode": "10934"
+      },
+      "contactNumber": "09281.246.7709 x0180",
+      "emergencyContact": {
+        "name": "Dr. Jennifer Ritchie",
+        "number": "09382-256-6787 x33857"
+      }
+    },
+    "educationInfo": {
+      "Elementary": {
+        "name": "Homenick, Romaguera and Lockman Elementary School",
+        "yearGraduated": 1993
+      },
+      "HighSchool": {
+        "name": "Bartell - Ritchie High School",
+        "yearGraduated": 2010
+      },
+      "College": {
+        "name": "Grimes, Emmerich and Olson University",
+        "yearGraduated": 2014
+      }
+    },
+    "employeeRecords": [
+      {
+        "companyName": "Crist, Murray and Gleason",
+        "position": "Corporate Division Analyst",
+        "startDate": "2019-10-31",
+        "endDate": "2024-01-04",
+        "salary": 24745
+      },
+      {
+        "companyName": "Nolan, Dach and Cummings",
+        "position": "Future Functionality Orchestrator",
+        "startDate": "2024-02-12",
+        "endDate": "2024-05-11",
+        "salary": 73281
+      },
+      {
+        "companyName": "Emmerich Inc",
+        "position": "Chief Group Administrator",
+        "startDate": "2016-10-08",
+        "endDate": "2022-06-13",
+        "salary": 94611
+      }
+    ],
+    "governmentInfo": {
+      "sss": "405a9412-48af-447c-b359-5e5ea792a475",
+      "pagIbig": "0f9e8b7c-27e9-4fdd-8668-58919b70b6d6",
+      "philHealth": "197d643b-a118-45f6-ba92-27471628424c",
+      "tin": "42005349-3409-4b4d-9547-67b9a18fbbe8",
+      "passportNo": "685ff383-2128-4d69-ae55-97eeb25a885a",
+      "driversLicense": "34c95723-ab3f-4f90-9fef-f0cbd347fe3a",
+      "postalId": "85790366-1275-4518-87ee-92c68076fc39",
+      "votersId": "df071879-8163-4964-9269-beb8a6b7b1ff",
+      "nbi": "f39046be-09d7-4aa8-b437-4218db333d6b",
+      "policeClearance": "53fd4a0c-d1ee-4bd1-9929-13515a0c98c2",
+      "barangayClearance": "497af9c3-cda3-4f63-aa21-841ad856c073"
+    },
+    "employeeInfo": {
+      "employeeId": "3748aec1-aaea-4f27-83bf-f2ae7830797a",
+      "position": "Legacy Markets Executive",
+      "department": "Jewelry",
+      "dateHired": "2021-09-14",
+      "employmentStatus": "On Leave"
+    },
+    "username": "@antoninarmraz",
+    "email": "antoninarmraz@mail.com",
+    "password": "$2b$10$pxaRzznAFUL7Y/I4gT8aZO9YNxD5zhRqjSO5jjZ34aPbRhy.XjtlW",
+    "userType": "Employee",
+    "failedAttempts": 0,
+    "lockoutUntil": null,
+    "status": {
+      "isDeleted": false,
+      "isArchived": false
+    },
+    "createdAt": "2025-06-13T10:04:25+08:00",
+    "updatedAt": "2025-06-13T10:04:25+08:00",
+    "__v": 0
+  },
+  {
+    "basicInfo": {
+      "firstName": "Jedidiah",
+      "lastName": "Erdman",
+      "middleName": "Dakota",
+      "birthDate": "1998-02-07",
+      "height": 182,
+      "weight": 83,
+      "spouse": "Wilma Mosciski",
+      "namesOfChildren": [
+        "Hailie",
+        "Rita"
+      ],
+      "maritalStatus": "Widowed",
+      "gender": "Female",
+      "profileImage": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/29.jpg"
+    },
+    "contactInfo": {
+      "address": {
+        "street": "35247 6th Avenue",
+        "city": "Pasig",
+        "province": "Metro Manila",
+        "country": "Philippines",
+        "postalCode": "10794"
+      },
+      "contactNumber": "09539-828-2243 x09430",
+      "emergencyContact": {
+        "name": "Darin Schamberger",
+        "number": "09906-369-5062 x602"
+      }
+    },
+    "educationInfo": {
+      "Elementary": {
+        "name": "Koss, Wiegand and Runolfsson Elementary School",
+        "yearGraduated": 1995
+      },
+      "HighSchool": {
+        "name": "Schmidt - Greenfelder High School",
+        "yearGraduated": 2006
+      },
+      "College": {
+        "name": "Bernhard LLC University",
+        "yearGraduated": 2019
+      }
+    },
+    "employeeRecords": [
+      {
+        "companyName": "Lebsack, Mertz and Watsica",
+        "position": "International Integration Supervisor",
+        "startDate": "2023-03-01",
+        "endDate": "2024-07-18",
+        "salary": 25096
+      },
+      {
+        "companyName": "Beer LLC",
+        "position": "Legacy Metrics Supervisor",
+        "startDate": "2017-02-07",
+        "endDate": "2020-06-29",
+        "salary": 55934
+      },
+      {
+        "companyName": "Schumm - Harber",
+        "position": "Principal Configuration Planner",
+        "startDate": "2024-07-07",
+        "endDate": "2024-11-04",
+        "salary": 84807
+      }
+    ],
+    "governmentInfo": {
+      "sss": "31850c12-f1e6-4541-9850-36b163d0f017",
+      "pagIbig": "909754dc-2c6f-4fab-b582-672fd171f923",
+      "philHealth": "17ec5628-dfd7-45a0-ac3a-f711dcb80a6b",
+      "tin": "88c706b3-d936-4897-8611-3b3f8ed065e0",
+      "passportNo": "8a021560-e899-451f-a4c2-8e4cf41f60ca",
+      "driversLicense": "4971c5df-6477-4819-98bb-98e5f39e8316",
+      "postalId": "ee02d949-aa5f-40a7-97aa-6938ef1d608e",
+      "votersId": "45846aac-59da-4eec-acd4-e0a859660862",
+      "nbi": "b3547067-7ec5-44fd-8b19-ab8dbf56f4b1",
+      "policeClearance": "e80a9add-cdae-43a4-8f16-17f174b3e844",
+      "barangayClearance": "68a7571f-ab41-4147-bf18-6f75dec10953"
+    },
+    "employeeInfo": {
+      "employeeId": "245507cf-a764-4a76-9f69-8c6a0279c288",
+      "position": "Investor Response Associate",
+      "department": "Garden",
+      "dateHired": "2021-08-11",
+      "employmentStatus": "On Leave"
+    },
+    "username": "@jedidiahderdman",
+    "email": "jedidiahderdman@mail.com",
+    "password": "$2b$10$a0txXxgY1sIlj7iawizfbe84GCUlgbEvtY/C8cj6PYR20/H7yf/Iy",
+    "userType": "Employee",
+    "failedAttempts": 0,
+    "lockoutUntil": null,
+    "status": {
+      "isDeleted": false,
+      "isArchived": false
+    },
+    "createdAt": "2025-06-13T10:04:25+08:00",
+    "updatedAt": "2025-06-13T10:04:25+08:00",
+    "__v": 0
+  },
+  {
+    "basicInfo": {
+      "firstName": "Nadia",
+      "lastName": "Hartmann-Thiel",
+      "middleName": "Shawn",
+      "birthDate": "1984-01-10",
+      "height": 199,
+      "weight": 63,
+      "spouse": "Dr. Sylvia Hettinger",
+      "namesOfChildren": [
+        "Kade",
+        "Sterling"
+      ],
+      "maritalStatus": "Married",
+      "gender": "Male",
+      "profileImage": "https://avatars.githubusercontent.com/u/81054683"
+    },
+    "contactInfo": {
+      "address": {
+        "street": "447 Orchard Street",
+        "city": "Caloocan",
+        "province": "Metro Manila",
+        "country": "Philippines",
+        "postalCode": "17525"
+      },
+      "contactNumber": "09726-889-8042 x667",
+      "emergencyContact": {
+        "name": "Alex Bergnaum",
+        "number": "09(622) 220-5266"
+      }
+    },
+    "educationInfo": {
+      "Elementary": {
+        "name": "Lynch and Sons Elementary School",
+        "yearGraduated": 1992
+      },
+      "HighSchool": {
+        "name": "Cummerata and Sons High School",
+        "yearGraduated": 2006
+      },
+      "College": {
+        "name": "Wiza, Streich and Parisian University",
+        "yearGraduated": 2015
+      }
+    },
+    "employeeRecords": [
+      {
+        "companyName": "Kunze LLC",
+        "position": "Global Optimization Developer",
+        "startDate": "2019-08-27",
+        "endDate": "2023-03-26",
+        "salary": 58650
+      }
+    ],
+    "governmentInfo": {
+      "sss": "730e4973-f845-4cb6-be8f-09b8a29b2ece",
+      "pagIbig": "5048f2d0-a891-4c55-8d21-849acf6d6460",
+      "philHealth": "b2f370ab-5f60-42a4-b338-a455aee9f276",
+      "tin": "c897350d-c3c0-4cf9-b53b-da9db2617148",
+      "passportNo": "b7e777f4-f206-474f-bd59-f6b527b63531",
+      "driversLicense": "c5b85c0e-8398-41bc-a411-736f0f28334e",
+      "postalId": "a9135f64-45cf-4349-a4f3-7be9346445f7",
+      "votersId": "13e02d70-6f22-4ee4-a235-677c764ffe46",
+      "nbi": "2ff10020-57a2-4a13-80a7-3256b72df850",
+      "policeClearance": "e851b138-385a-4674-be94-ebccec0e17b6",
+      "barangayClearance": "531d105d-f41e-4886-acac-db0046164832"
+    },
+    "employeeInfo": {
+      "employeeId": "10070870-84c3-46aa-964d-5b13c727f225",
+      "position": "Global Web Engineer",
+      "department": "Computers",
+      "dateHired": "2025-03-23",
+      "employmentStatus": "On Leave"
+    },
+    "username": "@nadiashartmann-thiel",
+    "email": "nadiashartmann-thiel@mail.com",
+    "password": "$2b$10$AKzeZcrXVTkZWn5D2nzyeuGtqobiO5R9sG6c25g5YAgV/PjJ1HXVO",
+    "userType": "Employee",
+    "failedAttempts": 0,
+    "lockoutUntil": null,
+    "status": {
+      "isDeleted": false,
+      "isArchived": false
+    },
+    "createdAt": "2025-06-13T10:04:25+08:00",
+    "updatedAt": "2025-06-13T10:04:25+08:00",
+    "__v": 0
+  },
+  {
+    "basicInfo": {
+      "firstName": "Lavonne",
+      "lastName": "Leffler",
+      "middleName": "Kyle",
+      "birthDate": "1993-09-25",
+      "height": 171,
+      "weight": 56,
+      "spouse": "Kristi Collier",
+      "namesOfChildren": [
+        "Ryder",
+        "Lamar"
+      ],
+      "maritalStatus": "Divorced",
+      "gender": "Other",
+      "profileImage": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/91.jpg"
+    },
+    "contactInfo": {
+      "address": {
+        "street": "434 Theresia Keys",
+        "city": "Pasay",
+        "province": "Metro Manila",
+        "country": "Philippines",
+        "postalCode": "19685"
+      },
+      "contactNumber": "091-665-793-5689",
+      "emergencyContact": {
+        "name": "Lawrence Hayes",
+        "number": "09(728) 281-9008 x1456"
+      }
+    },
+    "educationInfo": {
+      "Elementary": {
+        "name": "O'Connell - Beer Elementary School",
+        "yearGraduated": 1995
+      },
+      "HighSchool": {
+        "name": "Satterfield - Brakus High School",
+        "yearGraduated": 2010
+      },
+      "College": {
+        "name": "Effertz - Haley University",
+        "yearGraduated": 2010
+      }
+    },
+    "employeeRecords": [
+      {
+        "companyName": "Cormier - Dibbert",
+        "position": "Senior Response Director",
+        "startDate": "2020-11-10",
+        "endDate": "2024-07-15",
+        "salary": 43535
+      }
+    ],
+    "governmentInfo": {
+      "sss": "151e71b3-96d7-4f30-b4ac-ccf7f3eef4d3",
+      "pagIbig": "f4d938b2-3f7a-4d58-8098-6192a731d2e5",
+      "philHealth": "87c7ca35-7e1e-4683-9bf0-172289eb7128",
+      "tin": "599c7126-2c35-4c80-b0bf-db54ea37db67",
+      "passportNo": "76dfc4b2-e9ed-418b-b2d1-142255a7c731",
+      "driversLicense": "74ce33c8-bf43-44f1-9c87-2dc66693fbfd",
+      "postalId": "647cc324-c253-4b59-ac7e-c11741dfbe38",
+      "votersId": "503b0841-dc5c-4bfe-98e3-33e7d47caf04",
+      "nbi": "1195855c-3c09-49cc-a82c-135464cd85a8",
+      "policeClearance": "be762907-14a3-4234-91c2-605db3fa4072",
+      "barangayClearance": "699bb949-0d12-450f-83ca-c04044ed8d94"
+    },
+    "employeeInfo": {
+      "employeeId": "fc27de0a-cc06-4f99-8a1e-6ecdcebd9ef4",
+      "position": "International Group Officer",
+      "department": "Beauty",
+      "dateHired": "2022-12-04",
+      "employmentStatus": "Inactive"
+    },
+    "username": "@lavonnekleffler",
+    "email": "lavonnekleffler@mail.com",
+    "password": "$2b$10$7HOsAzNmqiVau7GhZNJ8EewR61izwSqnILWqxdRU38FnO4vYD96Q.",
+    "userType": "Employee",
+    "failedAttempts": 0,
+    "lockoutUntil": null,
+    "status": {
+      "isDeleted": false,
+      "isArchived": false
+    },
+    "createdAt": "2025-06-13T10:04:25+08:00",
+    "updatedAt": "2025-06-13T10:04:25+08:00",
+    "__v": 0
+  },
+  {
+    "basicInfo": {
+      "firstName": "Pattie",
+      "lastName": "Bosco",
+      "middleName": "Shawn",
+      "birthDate": "1985-03-28",
+      "height": 193,
+      "weight": 50,
+      "spouse": "Elisa Yundt",
+      "namesOfChildren": [
+        "Monserrate",
+        "Alden"
+      ],
+      "maritalStatus": "Widowed",
+      "gender": "Male",
+      "profileImage": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/15.jpg"
+    },
+    "contactInfo": {
+      "address": {
+        "street": "3739 Graham Knoll",
+        "city": "Marikina",
+        "province": "Metro Manila",
+        "country": "Philippines",
+        "postalCode": "11174"
+      },
+      "contactNumber": "09335-654-1299 x24560",
+      "emergencyContact": {
+        "name": "Tony Wisozk",
+        "number": "09(555) 873-8209 x82204"
+      }
+    },
+    "educationInfo": {
+      "Elementary": {
+        "name": "Heller LLC Elementary School",
+        "yearGraduated": 1992
+      },
+      "HighSchool": {
+        "name": "Runolfsdottir, Hilll and Prosacco High School",
+        "yearGraduated": 2005
+      },
+      "College": {
+        "name": "Wintheiser - Leffler University",
+        "yearGraduated": 2019
+      }
+    },
+    "employeeRecords": [
+      {
+        "companyName": "Hartmann Inc",
+        "position": "Human Assurance Facilitator",
+        "startDate": "2017-06-01",
+        "endDate": "2020-07-23",
+        "salary": 25859
+      },
+      {
+        "companyName": "Koelpin, Ernser and Harris",
+        "position": "Human Research Supervisor",
+        "startDate": "2016-03-22",
+        "endDate": "2020-12-11",
+        "salary": 42974
+      }
+    ],
+    "governmentInfo": {
+      "sss": "03068053-e469-4632-bc57-51d678a9b2ed",
+      "pagIbig": "671db2d2-8f48-42bd-8704-bb3b3feb4085",
+      "philHealth": "ba033956-e28e-4d82-8a27-a22774b692da",
+      "tin": "eca7607e-6897-461e-8cd4-822b22b0dbbb",
+      "passportNo": "9726777d-12bd-4a9a-a90b-c2f09823384a",
+      "driversLicense": "e386c26b-fc04-4a9b-a3b2-e75a92ef5e56",
+      "postalId": "c077caca-44b7-4f1b-b5eb-8b7f1f7dc779",
+      "votersId": "7c6dc35e-3af1-44aa-a8e3-4e9d4b21cdd1",
+      "nbi": "734db908-6e80-459d-b568-49f84fdece5b",
+      "policeClearance": "0a036434-31fa-4a65-88f7-885932d1565d",
+      "barangayClearance": "bdd1ad91-2069-4173-a71f-e1558466ab3a"
+    },
+    "employeeInfo": {
+      "employeeId": "f6ccc1c7-77b7-48e8-baec-cdf548ca23e3",
+      "position": "International Applications Specialist",
+      "department": "Baby",
+      "dateHired": "2022-09-15",
+      "employmentStatus": "On Leave"
+    },
+    "username": "@pattiesbosco",
+    "email": "pattiesbosco@mail.com",
+    "password": "$2b$10$4hBBre7Vfbro8ZT60cI90etVc8x6BaaxH2agCjDqhncznOmAUrLrG",
+    "userType": "Employee",
+    "failedAttempts": 0,
+    "lockoutUntil": null,
+    "status": {
+      "isDeleted": false,
+      "isArchived": false
+    },
+    "createdAt": "2025-06-13T10:04:25+08:00",
+    "updatedAt": "2025-06-13T10:04:25+08:00",
+    "__v": 0
+  },
+  {
+    "basicInfo": {
+      "firstName": "Hunter",
+      "lastName": "Botsford-Larkin",
+      "middleName": "Hayden",
+      "birthDate": "1974-01-12",
+      "height": 194,
+      "weight": 60,
+      "spouse": "Blanca Schuster",
+      "namesOfChildren": [
+        "Marquis",
+        "Astrid"
+      ],
+      "maritalStatus": "Married",
+      "gender": "Female",
+      "profileImage": "https://avatars.githubusercontent.com/u/82645994"
+    },
+    "contactInfo": {
+      "address": {
+        "street": "6424 Maci Field",
+        "city": "San Juan",
+        "province": "Metro Manila",
+        "country": "Philippines",
+        "postalCode": "19414"
+      },
+      "contactNumber": "091-204-352-0955 x37797",
+      "emergencyContact": {
+        "name": "Dr. Clarence Anderson-Monahan",
+        "number": "091-769-345-5515 x682"
+      }
+    },
+    "educationInfo": {
+      "Elementary": {
+        "name": "Pollich Inc Elementary School",
+        "yearGraduated": 1993
+      },
+      "HighSchool": {
+        "name": "Rolfson - Block High School",
+        "yearGraduated": 2005
+      },
+      "College": {
+        "name": "Carroll - Prohaska University",
+        "yearGraduated": 2016
+      }
+    },
+    "employeeRecords": [
+      {
+        "companyName": "Medhurst Group",
+        "position": "Customer Research Orchestrator",
+        "startDate": "2021-08-27",
+        "endDate": "2022-09-21",
+        "salary": 44273
+      }
+    ],
+    "governmentInfo": {
+      "sss": "5867c508-d472-4b1d-a480-772786436654",
+      "pagIbig": "9726ba85-5c66-43df-add4-7df3464f3238",
+      "philHealth": "44cda7b9-3874-4f48-9280-c0c50414bcca",
+      "tin": "85437e75-0acb-447d-893e-5f079bcb4b2f",
+      "passportNo": "17f84312-172e-4428-9134-111b70549686",
+      "driversLicense": "f50268fe-fcbc-423f-a0da-76253d34849c",
+      "postalId": "2bd03a79-387f-4855-bd93-fcdaf2565d7c",
+      "votersId": "1829fc0f-8509-4a89-80d3-09ca89392968",
+      "nbi": "dc4f60a4-ea39-476f-b0af-4c8c13ff8f6b",
+      "policeClearance": "76682de8-d9ac-4394-89df-24889505df95",
+      "barangayClearance": "d7348702-0e06-41c7-94b0-075c6bf4f4c9"
+    },
+    "employeeInfo": {
+      "employeeId": "85cba2fd-a665-470b-a5ce-f573eac00173",
+      "position": "Chief Functionality Assistant",
+      "department": "Electronics",
+      "dateHired": "2022-08-05",
+      "employmentStatus": "Active"
+    },
+    "username": "@hunterhbotsford-larkin",
+    "email": "hunterhbotsford-larkin@mail.com",
+    "password": "$2b$10$W3S80gmK75UU4v5zsC4taOhXMZDu7GXP648kNhwv.erRhDkZ.xZ3i",
+    "userType": "Employee",
+    "failedAttempts": 0,
+    "lockoutUntil": null,
+    "status": {
+      "isDeleted": false,
+      "isArchived": false
+    },
+    "createdAt": "2025-06-13T10:04:25+08:00",
+    "updatedAt": "2025-06-13T10:04:25+08:00",
+    "__v": 0
+  },
+  {
+    "basicInfo": {
+      "firstName": "Molly",
+      "lastName": "Emmerich",
+      "middleName": "Gray",
+      "birthDate": "1984-09-17",
+      "height": 152,
+      "weight": 70,
+      "spouse": "Claudia Waelchi",
+      "namesOfChildren": [
+        "Elmer",
+        "Ubaldo"
+      ],
+      "maritalStatus": "Divorced",
+      "gender": "Male",
+      "profileImage": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/64.jpg"
+    },
+    "contactInfo": {
+      "address": {
+        "street": "1228 Haag Greens",
+        "city": "Makati",
+        "province": "Metro Manila",
+        "country": "Philippines",
+        "postalCode": "19455"
+      },
+      "contactNumber": "09364.572.1310 x0905",
+      "emergencyContact": {
+        "name": "Eddie Auer Sr.",
+        "number": "09218-743-7336 x30382"
+      }
+    },
+    "educationInfo": {
+      "Elementary": {
+        "name": "Bashirian - Kuvalis Elementary School",
+        "yearGraduated": 1999
+      },
+      "HighSchool": {
+        "name": "Kessler - Wehner High School",
+        "yearGraduated": 2010
+      },
+      "College": {
+        "name": "Romaguera and Sons University",
+        "yearGraduated": 2015
+      }
+    },
+    "employeeRecords": [
+      {
+        "companyName": "Murazik, McLaughlin and Morar",
+        "position": "Global Marketing Engineer",
+        "startDate": "2015-07-17",
+        "endDate": "2017-08-30",
+        "salary": 16385
+      },
+      {
+        "companyName": "Ankunding and Sons",
+        "position": "International Applications Representative",
+        "startDate": "2024-07-11",
+        "endDate": "2024-10-10",
+        "salary": 17468
+      }
+    ],
+    "governmentInfo": {
+      "sss": "f2215a53-435c-4505-b59a-aa84f01bc2ad",
+      "pagIbig": "29ca35bf-c1f2-4507-9c6f-86b8f9edfd12",
+      "philHealth": "d7bd5f6a-4ca8-4600-86d2-60568d7071de",
+      "tin": "911614ec-e35c-4db7-a298-a27ad81c49a0",
+      "passportNo": "0c3b4c1b-81c2-4b45-be3c-21e8b1150d13",
+      "driversLicense": "e756c90d-4a37-44a0-9bab-f7a4a21f9566",
+      "postalId": "8fb9b5f7-d954-4324-9dd1-f5e020489aa3",
+      "votersId": "9091d51c-47ea-4a97-9361-f1bdaebd43ee",
+      "nbi": "ac69a7f0-bc59-42fa-b660-d90a7f8e4ee4",
+      "policeClearance": "01dd2d45-9408-4479-b733-bb936c734e0a",
+      "barangayClearance": "44dc210b-9ac4-4a9e-8e96-e335f81a2b3e"
+    },
+    "employeeInfo": {
+      "employeeId": "2882b4c8-b64a-4784-a30b-3c192d856d89",
+      "position": "National Division Architect",
+      "department": "Electronics",
+      "dateHired": "2025-03-01",
+      "employmentStatus": "Terminated"
+    },
+    "username": "@mollygemmerich",
+    "email": "mollygemmerich@mail.com",
+    "password": "$2b$10$rUcepMwbiZ8zXpinRTuu2uQSaV4ByQnvMwg/sYAztJ2wcapyyDJ86",
+    "userType": "Employee",
+    "failedAttempts": 0,
+    "lockoutUntil": null,
+    "status": {
+      "isDeleted": false,
+      "isArchived": false
+    },
+    "createdAt": "2025-06-13T10:04:25+08:00",
+    "updatedAt": "2025-06-13T10:04:25+08:00",
+    "__v": 0
+  },
+  {
+    "basicInfo": {
+      "firstName": "Drake",
+      "lastName": "McCullough",
+      "middleName": "Hayden",
+      "birthDate": "1999-05-24",
+      "height": 170,
+      "weight": 63,
+      "spouse": "Cora Brekke",
+      "namesOfChildren": [
+        "Alexane",
+        "Polly"
+      ],
+      "maritalStatus": "Single",
+      "gender": "Male",
+      "profileImage": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/99.jpg"
+    },
+    "contactInfo": {
+      "address": {
+        "street": "418 Blind Lane",
+        "city": "San Juan",
+        "province": "Metro Manila",
+        "country": "Philippines",
+        "postalCode": "10302"
+      },
+      "contactNumber": "09406-975-9956 x2269",
+      "emergencyContact": {
+        "name": "Donna Ebert-Feil IV",
+        "number": "09574-604-9993 x50596"
+      }
+    },
+    "educationInfo": {
+      "Elementary": {
+        "name": "Okuneva - Wisoky Elementary School",
+        "yearGraduated": 1995
+      },
+      "HighSchool": {
+        "name": "Stark and Sons High School",
+        "yearGraduated": 2008
+      },
+      "College": {
+        "name": "VonRueden LLC University",
+        "yearGraduated": 2015
+      }
+    },
+    "employeeRecords": [
+      {
+        "companyName": "Nitzsche, Beatty and Rippin",
+        "position": "Internal Usability Coordinator",
+        "startDate": "2019-07-06",
+        "endDate": "2020-12-29",
+        "salary": 94877
+      }
+    ],
+    "governmentInfo": {
+      "sss": "34dfa74b-3114-4b9c-9084-c1298b808e54",
+      "pagIbig": "678b520c-5020-4c60-aceb-cef598dd7056",
+      "philHealth": "fb39e44e-a9bf-4963-8b3a-9cfb297fb5cc",
+      "tin": "19e58607-75d5-4c17-bbb1-8c587baf10b1",
+      "passportNo": "a8709eb1-dbd4-499d-8925-f00238427b5d",
+      "driversLicense": "24471b01-7831-4ee6-953c-88a3c783994b",
+      "postalId": "fddffaf8-c5c2-401e-8a57-f90b6c089c06",
+      "votersId": "181a4ea8-ff9c-441b-917d-0acc6818b3f8",
+      "nbi": "b36b173c-3954-47b8-8eb1-4fd0f05cf4b5",
+      "policeClearance": "86f4a63d-1198-48c0-9b46-50c36ef73eed",
+      "barangayClearance": "02c4d761-1836-466d-9dd1-1c9a299b5d4c"
+    },
+    "employeeInfo": {
+      "employeeId": "f4ab5ec6-0656-42a3-b1bc-331b1d4b33a1",
+      "position": "National Identity Executive",
+      "department": "Baby",
+      "dateHired": "2023-05-31",
+      "employmentStatus": "Inactive"
+    },
+    "username": "@drakehmccullough",
+    "email": "drakehmccullough@mail.com",
+    "password": "$2b$10$sZ.XUFzye9B7J3NlBn030.JmYFghTiBYy7mnod7.Xz67eW7AfsUe6",
+    "userType": "Employee",
+    "failedAttempts": 0,
+    "lockoutUntil": null,
+    "status": {
+      "isDeleted": false,
+      "isArchived": false
+    },
+    "createdAt": "2025-06-13T10:04:25+08:00",
+    "updatedAt": "2025-06-13T10:04:25+08:00",
+    "__v": 0
+  }
+]

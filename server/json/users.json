@@ -1,0 +1,317 @@
+[
+  {
+    "basicInfo": {
+      "firstName": "John",
+      "lastName": "Doe",
+      "middleName": "Michael",
+      "birthDate": "1990-06-15T00:00:00.000Z",
+      "height": 180,
+      "weight": 75,
+      "spouse": "Jane Doe",
+      "namesOfChildren": ["Alice", "Bob"],
+      "maritalStatus": "Married",
+      "gender": "Male",
+      "profileImage": "profile_john.jpg"
+    },
+    "contactInfo": {
+      "address": {
+        "street": "123 Elm St",
+        "city": "Metro City",
+        "zip": "12345"
+      },
+      "contactNumber": "09171234567",
+      "emergencyContact": {
+        "name": "Jane Doe",
+        "relation": "Spouse",
+        "phone": "09179876543"
+      }
+    },
+    "educationInfo": {
+      "Elementary": {
+        "name": "Metro Elementary",
+        "yearGraduated": 2002
+      },
+      "HighSchool": {
+        "name": "Metro High School",
+        "yearGraduated": 2006
+      },
+      "College": {
+        "name": "Metro University",
+        "yearGraduated": 2010
+      }
+    },
+    "employeeRecords": [
+      {
+        "companyName": "Tech Solutions Inc.",
+        "position": "Software Engineer",
+        "startDate": "2011-01-01T00:00:00.000Z",
+        "endDate": "2015-12-31T00:00:00.000Z",
+        "salary": 60000
+      }
+    ],
+    "governmentInfo": {
+      "sss": "34-1234567-8",
+      "pagIbig": "1234-5678-9012",
+      "philHealth": "12-345678901",
+      "tin": "123-456-789",
+      "passportNo": "P1234567",
+      "driversLicense": "D12345678",
+      "postalId": "POST123456",
+      "votersId": "VOT123456",
+      "nbi": "NBI123456",
+      "policeClearance": "PC123456",
+      "barangayClearance": "BC123456"
+    },
+    "employeeInfo": {
+      "employeeId": "EMP001",
+      "position": "Lead Developer",
+      "department": "IT",
+      "dateHired": "2016-01-01T00:00:00.000Z",
+      "employmentStatus": "Active"
+    },
+    "username": "johndoe",
+    "email": "johndoe@example.com",
+    "password": "test@123",
+    "userType": "admin",
+    "status": {
+      "isDeleted": false,
+      "isArchived": false
+    }
+  },
+  {
+    "basicInfo": {
+      "firstName": "Maria",
+      "lastName": "Santos",
+      "middleName": "Elena",
+      "birthDate": "1985-04-23T00:00:00.000Z",
+      "height": 160,
+      "weight": 55,
+      "spouse": null,
+      "namesOfChildren": [],
+      "maritalStatus": "Single",
+      "gender": "Female",
+      "profileImage": "maria.png"
+    },
+    "contactInfo": {
+      "address": {
+        "street": "456 Pine St",
+        "city": "Cebu City",
+        "zip": "6000"
+      },
+      "contactNumber": "09181234567",
+      "emergencyContact": {
+        "name": "Ana Santos",
+        "relation": "Sister",
+        "phone": "09182345678"
+      }
+    },
+    "educationInfo": {
+      "Elementary": {
+        "name": "Cebu Elementary",
+        "yearGraduated": 1997
+      },
+      "HighSchool": {
+        "name": "Cebu High",
+        "yearGraduated": 2001
+      },
+      "College": {
+        "name": "Cebu Institute of Technology",
+        "yearGraduated": 2005
+      }
+    },
+    "employeeRecords": [],
+    "governmentInfo": {},
+    "employeeInfo": {
+      "employeeId": "EMP002",
+      "position": "HR Manager",
+      "department": "Human Resources",
+      "dateHired": "2012-03-15T00:00:00.000Z",
+      "employmentStatus": "Active"
+    },
+    "username": "maria_santos",
+    "email": "maria.santos@example.com",
+    "password": "test@123",
+    "userType": "user",
+    "status": {
+      "isDeleted": false,
+      "isArchived": false
+    }
+  },
+  {
+    "basicInfo": {
+      "firstName": "Carlos",
+      "lastName": "Reyes",
+      "middleName": "",
+      "birthDate": "1992-11-30T00:00:00.000Z",
+      "height": 172,
+      "weight": 68,
+      "spouse": null,
+      "namesOfChildren": [],
+      "maritalStatus": "Single",
+      "gender": "Male",
+      "profileImage": ""
+    },
+    "contactInfo": {
+      "address": {
+        "street": "789 Mango Ave",
+        "city": "Davao",
+        "zip": "8000"
+      },
+      "contactNumber": "09191234567",
+      "emergencyContact": {
+        "name": "Mark Reyes",
+        "relation": "Brother",
+        "phone": "09191239876"
+      }
+    },
+    "educationInfo": {
+      "Elementary": {
+        "name": "Davao Elementary",
+        "yearGraduated": 2004
+      },
+      "HighSchool": {
+        "name": "Davao High School",
+        "yearGraduated": 2008
+      },
+      "College": {
+        "name": "Ateneo de Davao",
+        "yearGraduated": 2012
+      }
+    },
+    "employeeRecords": [],
+    "governmentInfo": {},
+    "employeeInfo": {
+      "employeeId": "EMP003",
+      "position": "Data Analyst",
+      "department": "Analytics",
+      "dateHired": "2019-06-10T00:00:00.000Z",
+      "employmentStatus": "On Leave"
+    },
+    "username": "carlosr",
+    "email": "carlos.reyes@example.com",
+    "password": "test@123",
+    "userType": "user",
+    "status": {
+      "isDeleted": false,
+      "isArchived": false
+    }
+  },
+  {
+    "basicInfo": {
+      "firstName": "Anna",
+      "lastName": "Lim",
+      "middleName": "Grace",
+      "birthDate": "1988-08-08T00:00:00.000Z",
+      "height": 158,
+      "weight": 50,
+      "spouse": "Miguel Lim",
+      "namesOfChildren": ["Julia"],
+      "maritalStatus": "Married",
+      "gender": "Female",
+      "profileImage": "anna.jpg"
+    },
+    "contactInfo": {
+      "address": {
+        "street": "101 Banana St",
+        "city": "Quezon City",
+        "zip": "1100"
+      },
+      "contactNumber": "09221234567",
+      "emergencyContact": {
+        "name": "Miguel Lim",
+        "relation": "Husband",
+        "phone": "09229876543"
+      }
+    },
+    "educationInfo": {
+      "Elementary": {
+        "name": "QC Elementary",
+        "yearGraduated": 2000
+      },
+      "HighSchool": {
+        "name": "QC High",
+        "yearGraduated": 2004
+      },
+      "College": {
+        "name": "UP Diliman",
+        "yearGraduated": 2008
+      }
+    },
+    "employeeRecords": [],
+    "governmentInfo": {},
+    "employeeInfo": {
+      "employeeId": "EMP004",
+      "position": "Project Manager",
+      "department": "Operations",
+      "dateHired": "2015-05-20T00:00:00.000Z",
+      "employmentStatus": "Active"
+    },
+    "username": "anna.lim",
+    "email": "anna.lim@example.com",
+    "password": "test@123",
+    "userType": "admin",
+    "status": {
+      "isDeleted": false,
+      "isArchived": false
+    }
+  },
+  {
+    "basicInfo": {
+      "firstName": "Mark",
+      "lastName": "Tan",
+      "middleName": "Lee",
+      "birthDate": "1975-12-01T00:00:00.000Z",
+      "height": 165,
+      "weight": 72,
+      "spouse": "Liza Tan",
+      "namesOfChildren": ["Martin", "Lucas"],
+      "maritalStatus": "Married",
+      "gender": "Male",
+      "profileImage": "mark.jpg"
+    },
+    "contactInfo": {
+      "address": {
+        "street": "505 Apple Blvd",
+        "city": "Makati",
+        "zip": "1200"
+      },
+      "contactNumber": "09331234567",
+      "emergencyContact": {
+        "name": "Liza Tan",
+        "relation": "Wife",
+        "phone": "09339876543"
+      }
+    },
+    "educationInfo": {
+      "Elementary": {
+        "name": "Makati Elementary",
+        "yearGraduated": 1987
+      },
+      "HighSchool": {
+        "name": "Makati High",
+        "yearGraduated": 1991
+      },
+      "College": {
+        "name": "La Salle",
+        "yearGraduated": 1995
+      }
+    },
+    "employeeRecords": [],
+    "governmentInfo": {},
+    "employeeInfo": {
+      "employeeId": "EMP005",
+      "position": "Finance Officer",
+      "department": "Finance",
+      "dateHired": "2000-09-10T00:00:00.000Z",
+      "employmentStatus": "Active"
+    },
+    "username": "marktan",
+    "email": "mark.tan@example.com",
+    "password": "test@123",
+    "userType": "user",
+    "status": {
+      "isDeleted": false,
+      "isArchived": false
+    }
+  }
+]
