@@ -19,8 +19,8 @@ import {
 } from "react-icons/md";
 import { unlockAccount } from "../api/authApi";
 import SkeletonTableLoader from "../helper/SkeletonTableLoader";
-import UserFormModal from "../modal/UserFormModal";
-import Dialog from "../components/Dialog"
+import UserFormModal from "../Modal/UserFormModal";
+import Dialog from "../components/Dialog";
 
 // Configuration for sortable columns
 const sortableColumns = {
@@ -31,7 +31,7 @@ const sortableColumns = {
   createdAt: true,
   status: true,
   "#": false,
-  actions: false, 
+  actions: false,
 };
 
 const UsersTable = () => {
@@ -103,7 +103,7 @@ const UsersTable = () => {
   }, [pagination.currentPage, sortConfig, keyword, status]);
 
   const handleSort = (field) => {
-    if (!sortableColumns[field]) return; 
+    if (!sortableColumns[field]) return;
     setSortConfig((prev) => ({
       sortBy: field,
       sortOrder:
@@ -113,7 +113,7 @@ const UsersTable = () => {
 
   const renderSortIcon = (field) => {
     if (!sortableColumns[field]) {
-      return null; 
+      return null;
     }
     if (sortConfig.sortBy === field) {
       return (
@@ -261,7 +261,7 @@ const UsersTable = () => {
           onClick={() => setIsCreateModalOpen(true)}
           className="bg-blue-500 text-white px-4 py-2 rounded flex items-center gap-2 hover:bg-blue-600"
         >
-          <FaPlus />  
+          <FaPlus />
           <span className="max-md:hidden">Create User</span>
         </button>
       </div>
