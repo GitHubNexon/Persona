@@ -66,6 +66,8 @@ async function authenticate(req, res) {
 
     const { firstName, middleName, lastName } = userInfo.basicInfo || {};
     res.cookie("hris_token", token, {
+      domain: ".personasocial.vercel.app",
+      path: "/",
       httpOnly: true,
       secure: process.env.NODE_ENV === "production",
       // sameSite: "Strict", //= turn this on of same domain
@@ -124,6 +126,8 @@ async function googleAuthSuccess(req, res) {
 
     // Set cookie
     res.cookie("hris_token", token, {
+      domain: ".personasocial.vercel.app",
+      path: "/",
       httpOnly: true,
       secure: process.env.NODE_ENV === "production",
       // sameSite: "Strict", //= turn this on of same domain
@@ -191,6 +195,8 @@ function generateToken(payload) {
 function logoutToken(req, res) {
   //+
   res.clearCookie("hris_token", {
+    domain: ".personasocial.vercel.app",
+    path: "/",
     httpOnly: true,
     secure: process.env.NODE_ENV === "production",
     // sameSite: "Strict", //= turn this on of same domain
