@@ -1,7 +1,6 @@
 import React, { useState } from "react";
-import CalendarComponent from "../components/cards/CalendarComponent";
 import Clock from "../components/Clock";
-import Toastify from "../Components/Toast/Toastify";
+import Toastify from "../components/Toast/Toastify";
 import TestComponent from "./../components/resize/TestComponent";
 
 const Dashboard = () => {
@@ -13,7 +12,6 @@ const Dashboard = () => {
   return (
     <>
       <div className="p-2 dark:bg-gray-500 rounded-b-2xl">
-        <CalendarComponent />
         <TestComponent />
         <div className="p-6">
           <h2 className="mb-4 text-2xl font-bold">Asset Overview</h2>
