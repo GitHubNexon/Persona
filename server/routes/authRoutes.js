@@ -30,7 +30,11 @@ router.post(
 router.post(
   "/logout",
   asyncHandler(async (req, res) => {
-    res.clearCookie("persona_token");
+    res.clearCookie("persona_token", {
+      httpOnly: true,
+      secure: process.env.NODE_ENV === "production",
+      sameSite: process.env.COOKIE_SAMESITE || "Strict",
+    });
     res.status(200).json({ message: "Logged out successfully" });
   })
 );

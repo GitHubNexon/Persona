@@ -188,7 +188,11 @@ function generateToken(payload) {
 
 function logoutToken(req, res) {
   //+
-  res.clearCookie("persona_token");
+  res.clearCookie("persona_token", {
+    httpOnly: true,
+    secure: process.env.NODE_ENV === "production",
+    sameSite: process.env.COOKIE_SAMESITE || "Strict",
+  });
   res.status(200).json({ message: "Logout successful" });
 }
 
